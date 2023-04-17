@@ -8,7 +8,7 @@ CREATE TABLE Species (
     Common_name TEXT UNIQUE NOT NULL,
     Scientific_name TEXT, -- can't make NOT NULL, missing data in some rows
     Relevance TEXT
-) STRICT;
+);
 
 .import --csv --skip 1 species.csv Species
 
@@ -28,7 +28,7 @@ CREATE TABLE Site (
     Longitude REAL NOT NULL CHECK (Longitude BETWEEN -180 AND 180),
     Area REAL NOT NULL CHECK (Area > 0),
     UNIQUE (Latitude, Longitude)
-) STRICT;
+);
 
 .import --csv --skip 1 site.csv Site
 
@@ -37,7 +37,7 @@ CREATE TABLE Site (
 CREATE TABLE Personnel (
     Abbreviation TEXT PRIMARY KEY,
     Name TEXT NOT NULL UNIQUE
-) STRICT;
+);
 
 .import --csv --skip 1 personnel.csv Personnel
 
@@ -54,7 +54,7 @@ CREATE TABLE Camp_assignment (
     CHECK (End = '' OR Start <= End),
     CHECK (Start = '' OR Start BETWEEN Year||'-01-01' AND Year||'-12-31'),
     CHECK (End = '' OR End BETWEEN Year||'-01-01' AND Year||'-12-31')
-) STRICT;
+);
 
 .import --csv --skip 1 ASDN_Camp_assignment.csv Camp_assignment
 
@@ -84,7 +84,7 @@ CREATE TABLE Bird_nests (
     FOREIGN KEY (Site) REFERENCES Site (Code),
     FOREIGN KEY (Species) REFERENCES Species (Code),
     FOREIGN KEY (Observer) REFERENCES Personnel (Abbreviation)
-) STRICT;
+);
 
 .import --csv --skip 1 ASDN_Bird_nests.csv Bird_nests
 
@@ -139,7 +139,7 @@ CREATE TABLE Bird_eggs (
     PRIMARY KEY (Nest_ID, Egg_num),
     FOREIGN KEY (Site) REFERENCES Site (Code),
     FOREIGN KEY (Nest_ID) REFERENCES Bird_nests (Nest_ID)
-) STRICT;
+);
 
 -- Example of a trigger approach to checking that the duplicated
 -- columns in Bird_eggs match those in Bird_nests.
