@@ -1,0 +1,957 @@
+PlotID,Microhabitat,cushion_length,cushion_width,species,indID,cover,demography,phenology,nr.buds,nr.flowers,nr.fruits,physp,site.label
+1,Arenaria tetraqetra,31,19,Nevadensia purpúrea,1,1,adult,vegetative,NA,NA,NA,Nevadensia purpurea,1.Arenaria tetraqetra
+1,Arenaria tetraqetra,31,19,Nevadensia purpúrea,2,1,adult,vegetative,NA,NA,NA,Nevadensia purpurea,1.Arenaria tetraqetra
+1,Arenaria tetraqetra,31,19,Nevadensia purpúrea,3,1,adult,vegetative,NA,NA,NA,Nevadensia purpurea,1.Arenaria tetraqetra
+2,Open,NA,NA,Nevadensia purpúrea,1,1,adult,fruiting,NA,NA,10,Nevadensia purpurea,2.Open
+4,Arenaria tetraqetra,22,19,Hormathophylla,1,5,adult,senescent,NA,NA,NA,Hormathophylla,4.Arenaria tetraqetra
+5,Open,NA,NA,Biscutella glaciale,1,3,adult,vegetative,NA,NA,NA,Biscutella,5.Open
+5,Open,NA,NA,Jasione,1,1,adult,fruiting,NA,NA,5,Jasione,5.Open
+8,Open,NA,NA,Nevadensia purpúrea,1,0.5,seedling,NA,NA,NA,NA,Nevadensia purpurea,8.Open
+8,Open,NA,NA,Nevadensia purpúrea,2,0.5,adult,vegetative,NA,NA,NA,Nevadensia purpurea,8.Open
+8,Open,NA,NA,Nevadensia purpúrea,3,0.5,adult,vegetative,NA,NA,NA,Nevadensia purpurea,8.Open
+8,Open,NA,NA,Nevadensia purpúrea,4,0.5,adult,fruiting,NA,NA,5,Nevadensia purpurea,8.Open
+9,Hormathophylla,64,52,Hormathophylla,1,1,seedling,NA,NA,NA,NA,Hormathophylla,9.Hormathophylla
+12,Hormathophylla,60,36,Hormathophylla,1,1,seedling,NA,NA,NA,NA,Hormathophylla,12.Hormathophylla
+12,Hormathophylla,60,36,Jasione,1,3,adult,fruiting,NA,NA,4,Jasione,12.Hormathophylla
+13,Arenaria tetraqetra,28,21,Hormathophylla,1,1.5,juvenile,NA,NA,NA,NA,Hormathophylla,13.Arenaria tetraqetra
+13,Arenaria tetraqetra,28,21,Hormathophylla,2,1.5,juvenile,NA,NA,NA,NA,Hormathophylla,13.Arenaria tetraqetra
+14,Open,NA,NA,Jasione,1,2,adult,fruiting,NA,NA,5,Jasione,14.Open
+14,Open,NA,NA,Jasione,2,2,adult,fruiting,NA,NA,5,Jasione,14.Open
+14,Open,NA,NA,Eryngium,1,1,juvenile,NA,NA,NA,NA,Eryngium,14.Open
+14,Open,NA,NA,Leontodon,1,3,adult,budding,2,1,NA,Leontodon,14.Open
+15,Hormathophylla,38,28,Cardus carlinoides,1,3,adult,vegetative,NA,NA,NA,Carduus,15.Hormathophylla
+15,Hormathophylla,38,28,Cardus carlinoides,2,3,seedling,NA,NA,NA,NA,Carduus,15.Hormathophylla
+16,Arenaria tetraqetra,28,23,Nevadensia purpúrea,1,0.4,adult,vegetative,NA,NA,NA,Nevadensia purpurea,16.Arenaria tetraqetra
+16,Arenaria tetraqetra,28,23,Nevadensia purpúrea,2,0.4,adult,vegetative,NA,NA,NA,Nevadensia purpurea,16.Arenaria tetraqetra
+16,Arenaria tetraqetra,28,23,Nevadensia purpúrea,3,0.4,adult,vegetative,NA,NA,NA,Nevadensia purpurea,16.Arenaria tetraqetra
+16,Arenaria tetraqetra,28,23,Nevadensia purpúrea,4,0.4,adult,fruiting,NA,NA,2,Nevadensia purpurea,16.Arenaria tetraqetra
+16,Arenaria tetraqetra,28,23,Nevadensia purpúrea,5,0.4,adult,fruiting,NA,NA,1,Nevadensia purpurea,16.Arenaria tetraqetra
+17,Open,NA,NA,Nevadensia purpúrea,1,1,adult,fruiting,NA,NA,3,Nevadensia purpurea,17.Open
+17,Open,NA,NA,Nevadensia purpúrea,2,1,adult,fruiting,NA,NA,10,Nevadensia purpurea,17.Open
+19,Arenaria tetraqetra,25,29,Nevadensia purpúrea,1,0.4,adult,vegetative,NA,NA,NA,Nevadensia purpurea,19.Arenaria tetraqetra
+19,Arenaria tetraqetra,25,29,Nevadensia purpúrea,2,0.4,adult,vegetative,NA,NA,NA,Nevadensia purpurea,19.Arenaria tetraqetra
+19,Arenaria tetraqetra,25,29,Nevadensia purpúrea,3,0.4,adult,vegetative,NA,NA,NA,Nevadensia purpurea,19.Arenaria tetraqetra
+19,Arenaria tetraqetra,25,29,Nevadensia purpúrea,4,0.4,adult,flowering,NA,1,NA,Nevadensia purpurea,19.Arenaria tetraqetra
+19,Arenaria tetraqetra,25,29,Nevadensia purpúrea,5,0.4,adult,fruiting,NA,NA,4,Nevadensia purpurea,19.Arenaria tetraqetra
+19,Arenaria tetraqetra,25,29,Nevadensia purpúrea,6,0.4,adult,fruiting,NA,NA,3,Nevadensia purpurea,19.Arenaria tetraqetra
+19,Arenaria tetraqetra,25,29,Nevadensia purpúrea,7,0.4,adult,fruiting,NA,NA,10,Nevadensia purpurea,19.Arenaria tetraqetra
+19,Arenaria tetraqetra,25,29,Nevadensia purpúrea,8,0.4,adult,fruiting,NA,NA,5,Nevadensia purpurea,19.Arenaria tetraqetra
+19,Arenaria tetraqetra,25,29,Nevadensia purpúrea,9,0.4,adult,fruiting,NA,NA,4,Nevadensia purpurea,19.Arenaria tetraqetra
+19,Arenaria tetraqetra,25,29,Nevadensia purpúrea,10,0.4,adult,fruiting,NA,NA,20,Nevadensia purpurea,19.Arenaria tetraqetra
+19,Arenaria tetraqetra,25,29,Jasione,1,1,adult,fruiting,NA,NA,1,Jasione,19.Arenaria tetraqetra
+22,Arenaria tetraqetra,43,35,Lotus,1,1.4,adult,NA,NA,NA,NA,Lotus,22.Arenaria tetraqetra
+22,Arenaria tetraqetra,43,35,Lotus,2,1.4,adult,NA,NA,NA,NA,Lotus,22.Arenaria tetraqetra
+22,Arenaria tetraqetra,43,35,Lotus,3,1.4,adult,flowering,NA,3,NA,Lotus,22.Arenaria tetraqetra
+22,Arenaria tetraqetra,43,35,Lotus,4,1.4,adult,flowering,NA,3,NA,Lotus,22.Arenaria tetraqetra
+22,Arenaria tetraqetra,43,35,Lotus,5,1.4,adult,flowering,NA,1,NA,Lotus,22.Arenaria tetraqetra
+22,Arenaria tetraqetra,43,35,Lotus,6,1.4,adult,flowering,NA,2,NA,Lotus,22.Arenaria tetraqetra
+22,Arenaria tetraqetra,43,35,Lotus,7,1.4,adult,flowering,NA,3,NA,Lotus,22.Arenaria tetraqetra
+22,Arenaria tetraqetra,43,35,Eryngium,1,1,seedling,NA,NA,NA,NA,Eryngium,22.Arenaria tetraqetra
+23,Open,NA,NA,Eryngium,1,2,juvenile,NA,NA,NA,NA,Eryngium,23.Open
+25,Arenaria tetraqetra,30,25,Erigeron,1,1,adult,vegetative,NA,NA,NA,Erigeron,25.Arenaria tetraqetra
+25,Arenaria tetraqetra,30,25,Erigeron,2,1,adult,vegetative,NA,NA,NA,Erigeron,25.Arenaria tetraqetra
+25,Arenaria tetraqetra,30,25,Jasione,1,1.1,adult,flowering,NA,?,NA,Jasione,25.Arenaria tetraqetra
+25,Arenaria tetraqetra,30,25,Jasione,2,1.1,adult,flowering,NA,?,NA,Jasione,25.Arenaria tetraqetra
+25,Arenaria tetraqetra,30,25,Jasione,3,1.1,adult,flowering,NA,?,NA,Jasione,25.Arenaria tetraqetra
+25,Arenaria tetraqetra,30,25,Jasione,4,1.1,adult,flowering,NA,?,NA,Jasione,25.Arenaria tetraqetra
+25,Arenaria tetraqetra,30,25,Jasione,5,1.1,adult,flowering,NA,?,NA,Jasione,25.Arenaria tetraqetra
+25,Arenaria tetraqetra,30,25,Jasione,6,1.1,adult,flowering,NA,?,NA,Jasione,25.Arenaria tetraqetra
+25,Arenaria tetraqetra,30,25,Jasione,7,1.1,adult,flowering,NA,?,NA,Jasione,25.Arenaria tetraqetra
+25,Arenaria tetraqetra,30,25,Nevadensia purpúrea,1,1,adult,vegetative,NA,NA,NA,Nevadensia purpurea,25.Arenaria tetraqetra
+25,Arenaria tetraqetra,30,25,Chaenorhinum glareosum,1,2,adult,vegetative,NA,NA,NA,Chaenorhinum,25.Arenaria tetraqetra
+25,Arenaria tetraqetra,30,25,Sideritis,1,1,juvenile,NA,NA,NA,NA,Sideritis,25.Arenaria tetraqetra
+25,Arenaria tetraqetra,30,25,Hormathophylla,1,1,juvenile,NA,NA,NA,NA,Hormathophylla,25.Arenaria tetraqetra
+26,Open,NA,NA,Jasione,1,0.5,juvenile,NA,NA,NA,NA,Jasione,26.Open
+26,Open,NA,NA,Jasione,2,0.5,adult,vegetative,NA,NA,NA,Jasione,26.Open
+26,Open,NA,NA,Nevadensia purpúrea,1,1,juvenile,NA,NA,NA,NA,Nevadensia purpurea,26.Open
+28,Arenaria tetraqetra,34,17,Jasione,1,1,adult,vegetative,NA,NA,NA,Jasione,28.Arenaria tetraqetra
+28,Arenaria tetraqetra,34,17,Jasione,2,1,adult,vegetative,NA,NA,NA,Jasione,28.Arenaria tetraqetra
+28,Arenaria tetraqetra,34,17,Jasione,3,1,adult,vegetative,NA,NA,NA,Jasione,28.Arenaria tetraqetra
+28,Arenaria tetraqetra,34,17,Jasione,4,1,adult,fruiting,NA,NA,3,Jasione,28.Arenaria tetraqetra
+28,Arenaria tetraqetra,34,17,Jasione,5,1,adult,fruiting,NA,NA,5,Jasione,28.Arenaria tetraqetra
+28,Arenaria tetraqetra,34,17,Jasione,6,1,adult,fruiting,NA,NA,3,Jasione,28.Arenaria tetraqetra
+28,Arenaria tetraqetra,34,17,Jasione,7,1,adult,fruiting,NA,NA,1,Jasione,28.Arenaria tetraqetra
+28,Arenaria tetraqetra,34,17,Jasione,8,1,adult,fruiting,NA,NA,9,Jasione,28.Arenaria tetraqetra
+28,Arenaria tetraqetra,34,17,Jasione,9,1,adult,fruiting,NA,NA,3,Jasione,28.Arenaria tetraqetra
+28,Arenaria tetraqetra,34,17,Jasione,10,1,adult,flowering,NA,3,NA,Jasione,28.Arenaria tetraqetra
+28,Arenaria tetraqetra,34,17,Lotus,1,0.7,adult,vegetative,NA,NA,NA,Lotus,28.Arenaria tetraqetra
+28,Arenaria tetraqetra,34,17,Lotus,2,0.7,adult,vegetative,NA,NA,NA,Lotus,28.Arenaria tetraqetra
+28,Arenaria tetraqetra,34,17,Lotus,3,0.7,adult,vegetative,NA,NA,NA,Lotus,28.Arenaria tetraqetra
+28,Arenaria tetraqetra,34,17,Lotus,4,0.7,adult,vegetative,NA,NA,NA,Lotus,28.Arenaria tetraqetra
+28,Arenaria tetraqetra,34,17,Lotus,5,0.7,adult,flowering,NA,1,NA,Lotus,28.Arenaria tetraqetra
+28,Arenaria tetraqetra,34,17,Lotus,6,0.7,adult,budding,1,NA,NA,Lotus,28.Arenaria tetraqetra
+28,Arenaria tetraqetra,34,17,Nevadensia purpúrea,1,0.5,adult,vegetative,NA,NA,NA,Nevadensia purpurea,28.Arenaria tetraqetra
+28,Arenaria tetraqetra,34,17,Nevadensia purpúrea,2,0.5,adult,vegetative,NA,NA,NA,Nevadensia purpurea,28.Arenaria tetraqetra
+29,Open,NA,NA,Nevadensia purpúrea,1,3,adult,fruiting,NA,NA,2,Nevadensia purpurea,29.Open
+29,Open,NA,NA,Viola,1,1,seedling,NA,NA,NA,NA,Viola,29.Open
+30,Hormathophylla,44,45,Cardus carlinoides,1,3.5,seedling,NA,NA,NA,NA,Carduus,30.Hormathophylla
+30,Hormathophylla,44,45,Cardus carlinoides,2,3.5,adult,vegetative,NA,NA,NA,Carduus,30.Hormathophylla
+30,Hormathophylla,44,45,Leontodon,1,2,adult,vegetative,NA,NA,NA,Leontodon,30.Hormathophylla
+31,Arenaria tetraqetra,34,22,Jasione,1,1.2,adult,vegetative,NA,NA,NA,Jasione,31.Arenaria tetraqetra
+31,Arenaria tetraqetra,34,22,Jasione,2,1.2,adult,budding,1,NA,NA,Jasione,31.Arenaria tetraqetra
+31,Arenaria tetraqetra,34,22,Jasione,3,1.2,adult,fruiting,NA,NA,1,Jasione,31.Arenaria tetraqetra
+31,Arenaria tetraqetra,34,22,Jasione,4,1.2,adult,fruiting,NA,NA,1,Jasione,31.Arenaria tetraqetra
+31,Arenaria tetraqetra,34,22,Jasione,5,1.2,adult,fruiting,NA,NA,1,Jasione,31.Arenaria tetraqetra
+31,Arenaria tetraqetra,34,22,Jasione,6,1.2,adult,fruiting,NA,NA,3,Jasione,31.Arenaria tetraqetra
+31,Arenaria tetraqetra,34,22,Galium,1,0.4,adult,fruiting,NA,NA,3.2,Galium,31.Arenaria tetraqetra
+31,Arenaria tetraqetra,34,22,Galium,2,0.4,adult,fruiting,NA,NA,3.2,Galium,31.Arenaria tetraqetra
+31,Arenaria tetraqetra,34,22,Galium,3,0.4,adult,fruiting,NA,NA,3.2,Galium,31.Arenaria tetraqetra
+31,Arenaria tetraqetra,34,22,Galium,4,0.4,adult,fruiting,NA,NA,3.2,Galium,31.Arenaria tetraqetra
+31,Arenaria tetraqetra,34,22,Galium,5,0.4,adult,fruiting,NA,NA,3.2,Galium,31.Arenaria tetraqetra
+31,Arenaria tetraqetra,34,22,Galium,6,0.4,adult,fruiting,NA,NA,3.2,Galium,31.Arenaria tetraqetra
+31,Arenaria tetraqetra,34,22,Galium,7,0.4,adult,fruiting,NA,NA,3.2,Galium,31.Arenaria tetraqetra
+31,Arenaria tetraqetra,34,22,Galium,8,0.4,adult,fruiting,NA,NA,3.2,Galium,31.Arenaria tetraqetra
+31,Arenaria tetraqetra,34,22,Galium,9,0.4,adult,fruiting,NA,NA,3.2,Galium,31.Arenaria tetraqetra
+31,Arenaria tetraqetra,34,22,Galium,10,0.4,adult,fruiting,NA,NA,3.2,Galium,31.Arenaria tetraqetra
+31,Arenaria tetraqetra,34,22,Galium,11,0.4,adult,fruiting,NA,NA,3.2,Galium,31.Arenaria tetraqetra
+31,Arenaria tetraqetra,34,22,Galium,12,0.4,adult,fruiting,NA,NA,3.2,Galium,31.Arenaria tetraqetra
+31,Arenaria tetraqetra,34,22,Galium,13,0.4,adult,fruiting,NA,NA,3.2,Galium,31.Arenaria tetraqetra
+31,Arenaria tetraqetra,34,22,Galium,14,0.4,adult,fruiting,NA,NA,3.2,Galium,31.Arenaria tetraqetra
+31,Arenaria tetraqetra,34,22,Galium,15,0.4,adult,fruiting,NA,NA,3.2,Galium,31.Arenaria tetraqetra
+31,Arenaria tetraqetra,34,22,Galium,16,0.4,adult,fruiting,NA,NA,3.2,Galium,31.Arenaria tetraqetra
+31,Arenaria tetraqetra,34,22,Galium,17,0.4,adult,fruiting,NA,NA,3.2,Galium,31.Arenaria tetraqetra
+31,Arenaria tetraqetra,34,22,Galium,18,0.4,adult,fruiting,NA,NA,3.2,Galium,31.Arenaria tetraqetra
+31,Arenaria tetraqetra,34,22,Galium,19,0.4,adult,fruiting,NA,NA,3.2,Galium,31.Arenaria tetraqetra
+31,Arenaria tetraqetra,34,22,Viola,1,1,juvenile,NA,NA,NA,NA,Viola,31.Arenaria tetraqetra
+32,Open,NA,NA,Galium,1,0.5,adult,fruiting,NA,NA,6,Galium,32.Open
+32,Open,NA,NA,Nevadensia purpúrea,1,1,adult,vegetative,NA,NA,NA,Nevadensia purpurea,32.Open
+33,Hormathophylla,23,22,Jasione,1,2.5,adult,fruiting,NA,NA,1,Jasione,33.Hormathophylla
+33,Hormathophylla,23,22,Jasione,2,2.5,adult,flowering,NA,2,NA,Jasione,33.Hormathophylla
+33,Hormathophylla,23,22,Jasione,3,2.5,adult,flowering,NA,2,NA,Jasione,33.Hormathophylla
+33,Hormathophylla,23,22,Jasione,4,2.5,adult,flowering,NA,2,NA,Jasione,33.Hormathophylla
+33,Hormathophylla,23,22,Galium,1,0.3,adult,vegetative,NA,NA,NA,Galium,33.Hormathophylla
+33,Hormathophylla,23,22,Galium,2,0.3,adult,vegetative,NA,NA,NA,Galium,33.Hormathophylla
+33,Hormathophylla,23,22,Galium,3,0.3,adult,vegetative,NA,NA,NA,Galium,33.Hormathophylla
+33,Hormathophylla,23,22,Anthyllis,1,5,adult,flowering,NA,7,NA,Anthyllis,33.Hormathophylla
+34,Arenaria tetraqetra,27,27,Galium,1,0.25,adult,fruiting,NA,NA,2,Galium,34.Arenaria tetraqetra
+34,Arenaria tetraqetra,27,27,Galium,2,0.25,adult,fruiting,NA,NA,3,Galium,34.Arenaria tetraqetra
+34,Arenaria tetraqetra,27,27,Galium,3,0.25,adult,fruiting,NA,NA,5,Galium,34.Arenaria tetraqetra
+34,Arenaria tetraqetra,27,27,Galium,4,0.25,adult,fruiting,NA,NA,2,Galium,34.Arenaria tetraqetra
+34,Arenaria tetraqetra,27,27,Galium,5,0.25,adult,vegetative,NA,NA,NA,Galium,34.Arenaria tetraqetra
+34,Arenaria tetraqetra,27,27,Galium,6,0.25,adult,vegetative,NA,NA,NA,Galium,34.Arenaria tetraqetra
+34,Arenaria tetraqetra,27,27,Galium,7,0.25,adult,vegetative,NA,NA,NA,Galium,34.Arenaria tetraqetra
+34,Arenaria tetraqetra,27,27,Galium,8,0.25,adult,vegetative,NA,NA,NA,Galium,34.Arenaria tetraqetra
+34,Arenaria tetraqetra,27,27,Galium,9,0.25,adult,vegetative,NA,NA,NA,Galium,34.Arenaria tetraqetra
+34,Arenaria tetraqetra,27,27,Galium,10,0.25,adult,vegetative,NA,NA,NA,Galium,34.Arenaria tetraqetra
+34,Arenaria tetraqetra,27,27,Galium,11,0.25,adult,vegetative,NA,NA,NA,Galium,34.Arenaria tetraqetra
+34,Arenaria tetraqetra,27,27,Galium,12,0.25,adult,vegetative,NA,NA,NA,Galium,34.Arenaria tetraqetra
+34,Arenaria tetraqetra,27,27,Nevadensia purpúrea,1,0.7,adult,vegetative,NA,NA,NA,Nevadensia purpurea,34.Arenaria tetraqetra
+34,Arenaria tetraqetra,27,27,Nevadensia purpúrea,2,0.7,adult,vegetative,NA,NA,NA,Nevadensia purpurea,34.Arenaria tetraqetra
+34,Arenaria tetraqetra,27,27,Nevadensia purpúrea,3,0.7,adult,vegetative,NA,NA,NA,Nevadensia purpurea,34.Arenaria tetraqetra
+34,Arenaria tetraqetra,27,27,Lotus,1,1,adult,vegetative,NA,NA,NA,Lotus,34.Arenaria tetraqetra
+34,Arenaria tetraqetra,27,27,Lotus,2,1,adult,vegetative,NA,NA,NA,Lotus,34.Arenaria tetraqetra
+34,Arenaria tetraqetra,27,27,Lotus,3,1,adult,budding,2,NA,NA,Lotus,34.Arenaria tetraqetra
+34,Arenaria tetraqetra,27,27,Sideritis,1,1,juvenile,NA,NA,NA,NA,Sideritis,34.Arenaria tetraqetra
+36,Hormathophylla,32,27,Lotus,1,1.9,adult,budding,2,NA,NA,Lotus,36.Hormathophylla
+36,Hormathophylla,32,27,Lotus,2,1.9,adult,flowering,NA,3,NA,Lotus,36.Hormathophylla
+36,Hormathophylla,32,27,Lotus,3,1.9,adult,fruiting,1,NA,1,Lotus,36.Hormathophylla
+36,Hormathophylla,32,27,Lotus,4,1.9,adult,flowering,NA,7,NA,Lotus,36.Hormathophylla
+36,Hormathophylla,32,27,Lotus,5,1.9,adult,flowering,NA,2,1,Lotus,36.Hormathophylla
+36,Hormathophylla,32,27,Lotus,6,1.9,adult,flowering,NA,6,NA,Lotus,36.Hormathophylla
+36,Hormathophylla,32,27,Lotus,7,1.9,adult,budding,2,NA,NA,Lotus,36.Hormathophylla
+36,Hormathophylla,32,27,Lotus,8,1.9,adult,flowering,NA,4,NA,Lotus,36.Hormathophylla
+36,Hormathophylla,32,27,Viola,1,1,adult,vegetative,NA,NA,NA,Viola,36.Hormathophylla
+36,Hormathophylla,32,27,Erigeron,1,1,adult,vegetative,NA,NA,NA,Erigeron,36.Hormathophylla
+37,Arenaria tetraqetra,36,20,Lotus,1,0.7,adult,budding,3,NA,NA,Lotus,37.Arenaria tetraqetra
+37,Arenaria tetraqetra,36,20,Lotus,2,0.7,adult,budding,1,NA,NA,Lotus,37.Arenaria tetraqetra
+37,Arenaria tetraqetra,36,20,Lotus,3,0.7,adult,budding,1,NA,NA,Lotus,37.Arenaria tetraqetra
+37,Arenaria tetraqetra,36,20,Lotus,4,0.7,adult,budding,1,NA,NA,Lotus,37.Arenaria tetraqetra
+37,Arenaria tetraqetra,36,20,Lotus,5,0.7,adult,flowering,NA,2,NA,Lotus,37.Arenaria tetraqetra
+37,Arenaria tetraqetra,36,20,Lotus,6,0.7,adult,flowering,NA,1,NA,Lotus,37.Arenaria tetraqetra
+37,Arenaria tetraqetra,36,20,Lotus,7,0.7,adult,flowering,NA,2,NA,Lotus,37.Arenaria tetraqetra
+37,Arenaria tetraqetra,36,20,Galium,1,0.3,adult,fruiting,NA,NA,12.5,Galium,37.Arenaria tetraqetra
+37,Arenaria tetraqetra,36,20,Galium,2,0.3,adult,fruiting,NA,NA,12.5,Galium,37.Arenaria tetraqetra
+37,Arenaria tetraqetra,36,20,Galium,3,0.3,adult,fruiting,NA,NA,12.5,Galium,37.Arenaria tetraqetra
+37,Arenaria tetraqetra,36,20,Galium,4,0.3,adult,fruiting,NA,NA,12.5,Galium,37.Arenaria tetraqetra
+37,Arenaria tetraqetra,36,20,Galium,5,0.3,adult,fruiting,NA,NA,12.5,Galium,37.Arenaria tetraqetra
+37,Arenaria tetraqetra,36,20,Galium,6,0.3,adult,fruiting,NA,NA,12.5,Galium,37.Arenaria tetraqetra
+37,Arenaria tetraqetra,36,20,Galium,7,0.3,adult,fruiting,NA,NA,12.5,Galium,37.Arenaria tetraqetra
+37,Arenaria tetraqetra,36,20,Galium,8,0.3,adult,fruiting,NA,NA,12.5,Galium,37.Arenaria tetraqetra
+37,Arenaria tetraqetra,36,20,Galium,9,0.3,adult,fruiting,NA,NA,12.5,Galium,37.Arenaria tetraqetra
+37,Arenaria tetraqetra,36,20,Galium,10,0.3,adult,fruiting,NA,NA,12.5,Galium,37.Arenaria tetraqetra
+37,Arenaria tetraqetra,36,20,Galium,11,0.3,adult,fruiting,NA,NA,12.5,Galium,37.Arenaria tetraqetra
+37,Arenaria tetraqetra,36,20,Galium,12,0.3,adult,fruiting,NA,NA,12.5,Galium,37.Arenaria tetraqetra
+37,Arenaria tetraqetra,36,20,Galium,13,0.3,adult,fruiting,NA,NA,12.5,Galium,37.Arenaria tetraqetra
+37,Arenaria tetraqetra,36,20,Galium,14,0.3,adult,fruiting,NA,NA,12.5,Galium,37.Arenaria tetraqetra
+37,Arenaria tetraqetra,36,20,Galium,15,0.3,adult,fruiting,NA,NA,12.5,Galium,37.Arenaria tetraqetra
+37,Arenaria tetraqetra,36,20,Galium,16,0.3,adult,fruiting,NA,NA,12.5,Galium,37.Arenaria tetraqetra
+37,Arenaria tetraqetra,36,20,Jasione,1,1.7,adult,flowering,NA,2,NA,Jasione,37.Arenaria tetraqetra
+37,Arenaria tetraqetra,36,20,Jasione,2,1.7,adult,flowering,NA,1,NA,Jasione,37.Arenaria tetraqetra
+37,Arenaria tetraqetra,36,20,Jasione,3,1.7,adult,flowering,NA,2,NA,Jasione,37.Arenaria tetraqetra
+37,Arenaria tetraqetra,36,20,Nevadensia purpúrea,1,1,adult,fruiting,NA,NA,3,Nevadensia purpurea,37.Arenaria tetraqetra
+38,Open,NA,NA,Anthyllis,1,3.5,adult,fruiting,NA,NA,5,Anthyllis,38.Open
+38,Open,NA,NA,Anthyllis,2,3.5,adult,fruiting,NA,NA,5,Anthyllis,38.Open
+39,Hormathophylla,40,40,Nevadensia purpúrea,1,3,adult,fruiting,NA,NA,10,Nevadensia purpurea,39.Hormathophylla
+40,Arenaria tetraqetra,36,25,Lotus,1,1,adult,vegetative,NA,NA,NA,Lotus,40.Arenaria tetraqetra
+40,Arenaria tetraqetra,36,25,Lotus,2,1,adult,vegetative,NA,NA,NA,Lotus,40.Arenaria tetraqetra
+40,Arenaria tetraqetra,36,25,Galium,1,0.5,adult,fruiting,NA,NA,10.7,Galium,40.Arenaria tetraqetra
+40,Arenaria tetraqetra,36,25,Galium,2,0.5,adult,fruiting,NA,NA,10.7,Galium,40.Arenaria tetraqetra
+40,Arenaria tetraqetra,36,25,Galium,3,0.5,adult,fruiting,NA,NA,10.7,Galium,40.Arenaria tetraqetra
+40,Arenaria tetraqetra,36,25,Galium,4,0.5,adult,fruiting,NA,NA,10.7,Galium,40.Arenaria tetraqetra
+40,Arenaria tetraqetra,36,25,Galium,5,0.5,adult,fruiting,NA,NA,10.7,Galium,40.Arenaria tetraqetra
+40,Arenaria tetraqetra,36,25,Galium,6,0.5,adult,fruiting,NA,NA,10.7,Galium,40.Arenaria tetraqetra
+40,Arenaria tetraqetra,36,25,Galium,7,0.5,adult,fruiting,NA,NA,10.7,Galium,40.Arenaria tetraqetra
+40,Arenaria tetraqetra,36,25,Galium,8,0.5,adult,fruiting,NA,NA,10.7,Galium,40.Arenaria tetraqetra
+40,Arenaria tetraqetra,36,25,Galium,9,0.5,adult,fruiting,NA,NA,10.7,Galium,40.Arenaria tetraqetra
+40,Arenaria tetraqetra,36,25,Galium,10,0.5,adult,fruiting,NA,NA,10.7,Galium,40.Arenaria tetraqetra
+40,Arenaria tetraqetra,36,25,Galium,11,0.5,adult,fruiting,NA,NA,10.7,Galium,40.Arenaria tetraqetra
+40,Arenaria tetraqetra,36,25,Galium,12,0.5,adult,fruiting,NA,NA,10.7,Galium,40.Arenaria tetraqetra
+40,Arenaria tetraqetra,36,25,Galium,13,0.5,adult,fruiting,NA,NA,10.7,Galium,40.Arenaria tetraqetra
+40,Arenaria tetraqetra,36,25,Galium,14,0.5,adult,fruiting,NA,NA,10.7,Galium,40.Arenaria tetraqetra
+40,Arenaria tetraqetra,36,25,Galium,15,0.5,adult,fruiting,NA,NA,10.7,Galium,40.Arenaria tetraqetra
+40,Arenaria tetraqetra,36,25,Galium,16,0.5,adult,fruiting,NA,NA,10.7,Galium,40.Arenaria tetraqetra
+40,Arenaria tetraqetra,36,25,Galium,17,0.5,adult,fruiting,NA,NA,10.7,Galium,40.Arenaria tetraqetra
+40,Arenaria tetraqetra,36,25,Galium,18,0.5,adult,fruiting,NA,NA,10.7,Galium,40.Arenaria tetraqetra
+40,Arenaria tetraqetra,36,25,Galium,19,0.5,adult,fruiting,NA,NA,10.7,Galium,40.Arenaria tetraqetra
+40,Arenaria tetraqetra,36,25,Galium,20,0.5,adult,fruiting,NA,NA,10.7,Galium,40.Arenaria tetraqetra
+40,Arenaria tetraqetra,36,25,Galium,21,0.5,adult,fruiting,NA,NA,10.7,Galium,40.Arenaria tetraqetra
+40,Arenaria tetraqetra,36,25,Galium,22,0.5,adult,fruiting,NA,NA,10.7,Galium,40.Arenaria tetraqetra
+40,Arenaria tetraqetra,36,25,Galium,23,0.5,adult,fruiting,NA,NA,10.7,Galium,40.Arenaria tetraqetra
+40,Arenaria tetraqetra,36,25,Galium,24,0.5,adult,fruiting,NA,NA,10.7,Galium,40.Arenaria tetraqetra
+40,Arenaria tetraqetra,36,25,Galium,25,0.5,adult,fruiting,NA,NA,10.7,Galium,40.Arenaria tetraqetra
+40,Arenaria tetraqetra,36,25,Galium,26,0.5,adult,fruiting,NA,NA,10.7,Galium,40.Arenaria tetraqetra
+40,Arenaria tetraqetra,36,25,Galium,27,0.5,adult,fruiting,NA,NA,10.7,Galium,40.Arenaria tetraqetra
+40,Arenaria tetraqetra,36,25,Galium,28,0.5,adult,fruiting,NA,NA,10.7,Galium,40.Arenaria tetraqetra
+40,Arenaria tetraqetra,36,25,Jasione,1,1,adult,flowering,NA,2,NA,Jasione,40.Arenaria tetraqetra
+40,Arenaria tetraqetra,36,25,Jasione,2,1,adult,flowering,NA,1,NA,Jasione,40.Arenaria tetraqetra
+40,Arenaria tetraqetra,36,25,Jasione,3,1,adult,flowering,NA,1,NA,Jasione,40.Arenaria tetraqetra
+40,Arenaria tetraqetra,36,25,Jasione,4,1,adult,flowering,NA,3,NA,Jasione,40.Arenaria tetraqetra
+40,Arenaria tetraqetra,36,25,Jasione,5,1,adult,flowering,NA,1,NA,Jasione,40.Arenaria tetraqetra
+40,Arenaria tetraqetra,36,25,Hormathophylla,1,2,juvenile,NA,NA,NA,NA,Hormathophylla,40.Arenaria tetraqetra
+40,Arenaria tetraqetra,36,25,Nevadensia purpúrea,1,1,adult,fruiting,NA,NA,2,Nevadensia purpurea,40.Arenaria tetraqetra
+43,Arenaria tetraqetra,39,31,Jasione,1,1,adult,fruiting,NA,NA,1,Jasione,43.Arenaria tetraqetra
+43,Arenaria tetraqetra,39,31,Nevadensia purpúrea,1,0.7,adult,vegetative,NA,NA,NA,Nevadensia purpurea,43.Arenaria tetraqetra
+43,Arenaria tetraqetra,39,31,Nevadensia purpúrea,2,0.7,adult,vegetative,NA,NA,NA,Nevadensia purpurea,43.Arenaria tetraqetra
+43,Arenaria tetraqetra,39,31,Nevadensia purpúrea,3,0.7,adult,vegetative,NA,NA,NA,Nevadensia purpurea,43.Arenaria tetraqetra
+43,Arenaria tetraqetra,39,31,Galium,1,0.7,adult,vegetative,NA,NA,NA,Galium,43.Arenaria tetraqetra
+43,Arenaria tetraqetra,39,31,Galium,2,0.7,adult,vegetative,NA,NA,NA,Galium,43.Arenaria tetraqetra
+43,Arenaria tetraqetra,39,31,Galium,3,0.7,adult,flowering,NA,10,NA,Galium,43.Arenaria tetraqetra
+43,Arenaria tetraqetra,39,31,Galium,4,0.7,adult,flowering,NA,10,NA,Galium,43.Arenaria tetraqetra
+43,Arenaria tetraqetra,39,31,Galium,5,0.7,adult,flowering,NA,10,NA,Galium,43.Arenaria tetraqetra
+43,Arenaria tetraqetra,39,31,Galium,6,0.7,adult,flowering,NA,10,NA,Galium,43.Arenaria tetraqetra
+43,Arenaria tetraqetra,39,31,Galium,7,0.7,adult,flowering,NA,10,NA,Galium,43.Arenaria tetraqetra
+43,Arenaria tetraqetra,39,31,Galium,8,0.7,adult,flowering,NA,10,NA,Galium,43.Arenaria tetraqetra
+43,Arenaria tetraqetra,39,31,Galium,9,0.7,adult,flowering,NA,10,NA,Galium,43.Arenaria tetraqetra
+45,Hormathophylla,34,22,Jasione,1,5,adult,NA,NA,NA,NA,Jasione,45.Hormathophylla
+45,Hormathophylla,34,22,Jasione,2,5,adult,NA,NA,NA,NA,Jasione,45.Hormathophylla
+45,Hormathophylla,34,22,Jasione,3,5,adult,fruiting,NA,NA,1,Jasione,45.Hormathophylla
+45,Hormathophylla,34,22,Galium,1,2.1,adult,fruiting,NA,NA,14,Galium,45.Hormathophylla
+45,Hormathophylla,34,22,Galium,2,2.1,adult,fruiting,NA,NA,14,Galium,45.Hormathophylla
+45,Hormathophylla,34,22,Galium,3,2.1,adult,fruiting,NA,NA,14,Galium,45.Hormathophylla
+45,Hormathophylla,34,22,Galium,4,2.1,adult,fruiting,NA,NA,14,Galium,45.Hormathophylla
+45,Hormathophylla,34,22,Galium,5,2.1,adult,fruiting,NA,NA,14,Galium,45.Hormathophylla
+45,Hormathophylla,34,22,Galium,6,2.1,adult,flowering,NA,10,NA,Galium,45.Hormathophylla
+45,Hormathophylla,34,22,Galium,7,2.1,adult,flowering,NA,10,NA,Galium,45.Hormathophylla
+46,Arenaria tetraqetra,37,29,Galium,1,0.1,adult,flowering,NA,1,NA,Galium,46.Arenaria tetraqetra
+46,Arenaria tetraqetra,37,29,Galium,2,0.1,adult,flowering,NA,6,NA,Galium,46.Arenaria tetraqetra
+46,Arenaria tetraqetra,37,29,Galium,3,0.1,adult,fruiting,NA,NA,10,Galium,46.Arenaria tetraqetra
+46,Arenaria tetraqetra,37,29,Galium,4,0.1,adult,fruiting,NA,NA,10,Galium,46.Arenaria tetraqetra
+46,Arenaria tetraqetra,37,29,Galium,5,0.1,adult,fruiting,NA,NA,10,Galium,46.Arenaria tetraqetra
+46,Arenaria tetraqetra,37,29,Galium,6,0.1,adult,fruiting,NA,NA,10,Galium,46.Arenaria tetraqetra
+46,Arenaria tetraqetra,37,29,Galium,7,0.1,adult,fruiting,NA,NA,10,Galium,46.Arenaria tetraqetra
+46,Arenaria tetraqetra,37,29,Galium,8,0.1,adult,fruiting,NA,NA,10,Galium,46.Arenaria tetraqetra
+46,Arenaria tetraqetra,37,29,Galium,9,0.1,adult,fruiting,NA,NA,10,Galium,46.Arenaria tetraqetra
+46,Arenaria tetraqetra,37,29,Galium,10,0.1,adult,fruiting,NA,NA,10,Galium,46.Arenaria tetraqetra
+46,Arenaria tetraqetra,37,29,Galium,11,0.1,adult,fruiting,NA,NA,10,Galium,46.Arenaria tetraqetra
+46,Arenaria tetraqetra,37,29,Galium,12,0.1,adult,fruiting,NA,NA,10,Galium,46.Arenaria tetraqetra
+46,Arenaria tetraqetra,37,29,Galium,13,0.1,adult,NA,NA,NA,NA,Galium,46.Arenaria tetraqetra
+46,Arenaria tetraqetra,37,29,Galium,14,0.1,adult,NA,NA,NA,NA,Galium,46.Arenaria tetraqetra
+46,Arenaria tetraqetra,37,29,Galium,15,0.1,adult,NA,NA,NA,NA,Galium,46.Arenaria tetraqetra
+46,Arenaria tetraqetra,37,29,Galium,16,0.1,adult,NA,NA,NA,NA,Galium,46.Arenaria tetraqetra
+46,Arenaria tetraqetra,37,29,Galium,17,0.1,adult,NA,NA,NA,NA,Galium,46.Arenaria tetraqetra
+46,Arenaria tetraqetra,37,29,Galium,18,0.1,adult,NA,NA,NA,NA,Galium,46.Arenaria tetraqetra
+46,Arenaria tetraqetra,37,29,Galium,19,0.1,adult,NA,NA,NA,NA,Galium,46.Arenaria tetraqetra
+46,Arenaria tetraqetra,37,29,Galium,20,0.1,adult,NA,NA,NA,NA,Galium,46.Arenaria tetraqetra
+46,Arenaria tetraqetra,37,29,Galium,21,0.1,adult,NA,NA,NA,NA,Galium,46.Arenaria tetraqetra
+46,Arenaria tetraqetra,37,29,Galium,22,0.1,adult,NA,NA,NA,NA,Galium,46.Arenaria tetraqetra
+46,Arenaria tetraqetra,37,29,Galium,23,0.1,adult,NA,NA,NA,NA,Galium,46.Arenaria tetraqetra
+46,Arenaria tetraqetra,37,29,Galium,24,0.1,adult,NA,NA,NA,NA,Galium,46.Arenaria tetraqetra
+46,Arenaria tetraqetra,37,29,Galium,25,0.1,adult,NA,NA,NA,NA,Galium,46.Arenaria tetraqetra
+46,Arenaria tetraqetra,37,29,Galium,26,0.1,adult,NA,NA,NA,NA,Galium,46.Arenaria tetraqetra
+46,Arenaria tetraqetra,37,29,Galium,27,0.1,adult,NA,NA,NA,NA,Galium,46.Arenaria tetraqetra
+46,Arenaria tetraqetra,37,29,Galium,28,0.1,adult,NA,NA,NA,NA,Galium,46.Arenaria tetraqetra
+46,Arenaria tetraqetra,37,29,Galium,29,0.1,adult,NA,NA,NA,NA,Galium,46.Arenaria tetraqetra
+46,Arenaria tetraqetra,37,29,Galium,30,0.1,adult,NA,NA,NA,NA,Galium,46.Arenaria tetraqetra
+46,Arenaria tetraqetra,37,29,Galium,31,0.1,adult,NA,NA,NA,NA,Galium,46.Arenaria tetraqetra
+46,Arenaria tetraqetra,37,29,Galium,32,0.1,adult,NA,NA,NA,NA,Galium,46.Arenaria tetraqetra
+46,Arenaria tetraqetra,37,29,Galium,33,0.1,adult,NA,NA,NA,NA,Galium,46.Arenaria tetraqetra
+46,Arenaria tetraqetra,37,29,Galium,34,0.1,adult,NA,NA,NA,NA,Galium,46.Arenaria tetraqetra
+46,Arenaria tetraqetra,37,29,Galium,35,0.1,adult,NA,NA,NA,NA,Galium,46.Arenaria tetraqetra
+46,Arenaria tetraqetra,37,29,Galium,36,0.1,adult,NA,NA,NA,NA,Galium,46.Arenaria tetraqetra
+46,Arenaria tetraqetra,37,29,Galium,37,0.1,adult,NA,NA,NA,NA,Galium,46.Arenaria tetraqetra
+46,Arenaria tetraqetra,37,29,Galium,38,0.1,adult,NA,NA,NA,NA,Galium,46.Arenaria tetraqetra
+46,Arenaria tetraqetra,37,29,Galium,39,0.1,adult,NA,NA,NA,NA,Galium,46.Arenaria tetraqetra
+46,Arenaria tetraqetra,37,29,Galium,40,0.1,adult,NA,NA,NA,NA,Galium,46.Arenaria tetraqetra
+46,Arenaria tetraqetra,37,29,Galium,41,0.1,adult,NA,NA,NA,NA,Galium,46.Arenaria tetraqetra
+46,Arenaria tetraqetra,37,29,Galium,42,0.1,adult,NA,NA,NA,NA,Galium,46.Arenaria tetraqetra
+46,Arenaria tetraqetra,37,29,Galium,43,0.1,adult,NA,NA,NA,NA,Galium,46.Arenaria tetraqetra
+46,Arenaria tetraqetra,37,29,Galium,44,0.1,adult,NA,NA,NA,NA,Galium,46.Arenaria tetraqetra
+46,Arenaria tetraqetra,37,29,Galium,45,0.1,adult,NA,NA,NA,NA,Galium,46.Arenaria tetraqetra
+46,Arenaria tetraqetra,37,29,Galium,46,0.1,adult,NA,NA,NA,NA,Galium,46.Arenaria tetraqetra
+46,Arenaria tetraqetra,37,29,Galium,47,0.1,adult,NA,NA,NA,NA,Galium,46.Arenaria tetraqetra
+46,Arenaria tetraqetra,37,29,Galium,48,0.1,adult,NA,NA,NA,NA,Galium,46.Arenaria tetraqetra
+46,Arenaria tetraqetra,37,29,Galium,49,0.1,adult,NA,NA,NA,NA,Galium,46.Arenaria tetraqetra
+46,Arenaria tetraqetra,37,29,Galium,50,0.1,adult,NA,NA,NA,NA,Galium,46.Arenaria tetraqetra
+46,Arenaria tetraqetra,37,29,Galium,51,0.1,adult,NA,NA,NA,NA,Galium,46.Arenaria tetraqetra
+46,Arenaria tetraqetra,37,29,Galium,52,0.1,adult,NA,NA,NA,NA,Galium,46.Arenaria tetraqetra
+46,Arenaria tetraqetra,37,29,Galium,53,0.1,adult,NA,NA,NA,NA,Galium,46.Arenaria tetraqetra
+46,Arenaria tetraqetra,37,29,Galium,54,0.1,adult,NA,NA,NA,NA,Galium,46.Arenaria tetraqetra
+46,Arenaria tetraqetra,37,29,Galium,55,0.1,adult,NA,NA,NA,NA,Galium,46.Arenaria tetraqetra
+47,Open,NA,NA,Nevadensia purpúrea,1,1.5,adult,fruiting,NA,NA,16,Nevadensia purpurea,47.Open
+47,Open,NA,NA,Nevadensia purpúrea,2,1.5,adult,fruiting,NA,NA,23,Nevadensia purpurea,47.Open
+48,Hormathophylla,29,27,Jasione,1,1.7,adult,vegetative,NA,NA,NA,Jasione,48.Hormathophylla
+48,Hormathophylla,29,27,Jasione,2,1.7,adult,flowering,NA,2,NA,Jasione,48.Hormathophylla
+48,Hormathophylla,29,27,Jasione,3,1.7,adult,flowering,NA,3,NA,Jasione,48.Hormathophylla
+48,Hormathophylla,29,27,Galium,1,1.1,adult,vegetative,NA,NA,NA,Galium,48.Hormathophylla
+48,Hormathophylla,29,27,Galium,2,1.1,adult,vegetative,NA,NA,NA,Galium,48.Hormathophylla
+48,Hormathophylla,29,27,Galium,3,1.1,adult,vegetative,NA,NA,NA,Galium,48.Hormathophylla
+48,Hormathophylla,29,27,Galium,4,1.1,adult,vegetative,NA,NA,NA,Galium,48.Hormathophylla
+48,Hormathophylla,29,27,Galium,5,1.1,adult,fruiting,NA,NA,10,Galium,48.Hormathophylla
+48,Hormathophylla,29,27,Galium,6,1.1,adult,fruiting,NA,NA,10,Galium,48.Hormathophylla
+48,Hormathophylla,29,27,Galium,7,1.1,adult,fruiting,NA,NA,10,Galium,48.Hormathophylla
+48,Hormathophylla,29,27,Galium,8,1.1,adult,fruiting,NA,NA,10,Galium,48.Hormathophylla
+48,Hormathophylla,29,27,Galium,9,1.1,adult,fruiting,NA,NA,10,Galium,48.Hormathophylla
+48,Hormathophylla,29,27,Nevadensia purpúrea,1,1,adult,fruiting,NA,NA,4,Nevadensia purpurea,48.Hormathophylla
+48,Hormathophylla,29,27,Nevadensia purpúrea,2,1,adult,NA,NA,NA,NA,Nevadensia purpurea,48.Hormathophylla
+48,Hormathophylla,29,27,Nevadensia purpúrea,3,1,adult,NA,NA,NA,NA,Nevadensia purpurea,48.Hormathophylla
+48,Hormathophylla,29,27,Nevadensia purpúrea,4,1,adult,NA,NA,NA,NA,Nevadensia purpurea,48.Hormathophylla
+49,Arenaria tetraqetra,26,22,Anthyllis,1,3,adult,budding,4,NA,NA,Anthyllis,49.Arenaria tetraqetra
+49,Arenaria tetraqetra,26,22,Jasione,1,1.5,adult,fruiting,NA,NA,1,Jasione,49.Arenaria tetraqetra
+49,Arenaria tetraqetra,26,22,Jasione,2,1.5,adult,fruiting,1,1,2,Jasione,49.Arenaria tetraqetra
+49,Arenaria tetraqetra,26,22,Jasione,3,1.5,adult,vegetative,NA,NA,NA,Jasione,49.Arenaria tetraqetra
+49,Arenaria tetraqetra,26,22,Jasione,4,1.5,adult,vegetative,NA,NA,NA,Jasione,49.Arenaria tetraqetra
+49,Arenaria tetraqetra,26,22,Galium,1,0.8,adult,fruiting,NA,NA,15,Galium,49.Arenaria tetraqetra
+49,Arenaria tetraqetra,26,22,Galium,2,0.8,adult,fruiting,NA,NA,15,Galium,49.Arenaria tetraqetra
+49,Arenaria tetraqetra,26,22,Galium,3,0.8,adult,fruiting,NA,NA,15,Galium,49.Arenaria tetraqetra
+49,Arenaria tetraqetra,26,22,Galium,4,0.8,adult,fruiting,NA,NA,15,Galium,49.Arenaria tetraqetra
+49,Arenaria tetraqetra,26,22,Galium,5,0.8,adult,fruiting,NA,NA,15,Galium,49.Arenaria tetraqetra
+49,Arenaria tetraqetra,26,22,Galium,6,0.8,adult,fruiting,NA,NA,15,Galium,49.Arenaria tetraqetra
+49,Arenaria tetraqetra,26,22,Galium,7,0.8,adult,fruiting,NA,NA,15,Galium,49.Arenaria tetraqetra
+49,Arenaria tetraqetra,26,22,Galium,8,0.8,adult,fruiting,NA,NA,15,Galium,49.Arenaria tetraqetra
+49,Arenaria tetraqetra,26,22,Galium,9,0.8,adult,fruiting,NA,NA,15,Galium,49.Arenaria tetraqetra
+49,Arenaria tetraqetra,26,22,Galium,10,0.8,adult,fruiting,NA,NA,15,Galium,49.Arenaria tetraqetra
+49,Arenaria tetraqetra,26,22,Galium,11,0.8,adult,vegetative,NA,NA,NA,Galium,49.Arenaria tetraqetra
+49,Arenaria tetraqetra,26,22,Galium,12,0.8,adult,vegetative,NA,NA,NA,Galium,49.Arenaria tetraqetra
+49,Arenaria tetraqetra,26,22,Nevadensia purpúrea,1,0.75,adult,vegetative,NA,NA,NA,Nevadensia purpurea,49.Arenaria tetraqetra
+49,Arenaria tetraqetra,26,22,Nevadensia purpúrea,2,0.75,adult,fruiting,NA,NA,1,Nevadensia purpurea,49.Arenaria tetraqetra
+49,Arenaria tetraqetra,26,22,Nevadensia purpúrea,3,0.75,adult,fruiting,NA,NA,8,Nevadensia purpurea,49.Arenaria tetraqetra
+49,Arenaria tetraqetra,26,22,Nevadensia purpúrea,4,0.75,adult,fruiting,NA,NA,8,Nevadensia purpurea,49.Arenaria tetraqetra
+49,Arenaria tetraqetra,26,22,Genciana,1,0.25,adult,vegetative,NA,NA,NA,Gentiana,49.Arenaria tetraqetra
+49,Arenaria tetraqetra,26,22,Genciana,2,0.25,adult,vegetative,NA,NA,NA,Gentiana,49.Arenaria tetraqetra
+49,Arenaria tetraqetra,26,22,Genciana,3,0.25,adult,vegetative,NA,NA,NA,Gentiana,49.Arenaria tetraqetra
+49,Arenaria tetraqetra,26,22,Genciana,4,0.25,adult,vegetative,NA,NA,NA,Gentiana,49.Arenaria tetraqetra
+49,Arenaria tetraqetra,26,22,Genciana,5,0.25,adult,vegetative,NA,NA,NA,Gentiana,49.Arenaria tetraqetra
+49,Arenaria tetraqetra,26,22,Genciana,6,0.25,adult,vegetative,NA,NA,NA,Gentiana,49.Arenaria tetraqetra
+49,Arenaria tetraqetra,26,22,Genciana,7,0.25,adult,vegetative,NA,NA,NA,Gentiana,49.Arenaria tetraqetra
+49,Arenaria tetraqetra,26,22,Genciana,8,0.25,adult,vegetative,NA,NA,NA,Gentiana,49.Arenaria tetraqetra
+49,Arenaria tetraqetra,26,22,Genciana,9,0.25,adult,vegetative,NA,NA,NA,Gentiana,49.Arenaria tetraqetra
+49,Arenaria tetraqetra,26,22,Genciana,10,0.25,adult,vegetative,NA,NA,NA,Gentiana,49.Arenaria tetraqetra
+49,Arenaria tetraqetra,26,22,Genciana,11,0.25,adult,vegetative,NA,NA,NA,Gentiana,49.Arenaria tetraqetra
+49,Arenaria tetraqetra,26,22,Genciana,12,0.25,adult,vegetative,NA,NA,NA,Gentiana,49.Arenaria tetraqetra
+49,Arenaria tetraqetra,26,22,Genciana,13,0.25,adult,vegetative,NA,NA,NA,Gentiana,49.Arenaria tetraqetra
+49,Arenaria tetraqetra,26,22,Genciana,14,0.25,adult,vegetative,NA,NA,NA,Gentiana,49.Arenaria tetraqetra
+49,Arenaria tetraqetra,26,22,Genciana,15,0.25,adult,vegetative,NA,NA,NA,Gentiana,49.Arenaria tetraqetra
+49,Arenaria tetraqetra,26,22,Genciana,16,0.25,juvenile,NA,NA,NA,NA,Gentiana,49.Arenaria tetraqetra
+49,Arenaria tetraqetra,26,22,Genciana,17,0.25,juvenile,NA,NA,NA,NA,Gentiana,49.Arenaria tetraqetra
+49,Arenaria tetraqetra,26,22,Genciana,18,0.25,juvenile,NA,NA,NA,NA,Gentiana,49.Arenaria tetraqetra
+49,Arenaria tetraqetra,26,22,Genciana,19,0.25,juvenile,NA,NA,NA,NA,Gentiana,49.Arenaria tetraqetra
+49,Arenaria tetraqetra,26,22,Genciana,20,0.25,juvenile,NA,NA,NA,NA,Gentiana,49.Arenaria tetraqetra
+50,Open,NA,NA,Galium,1,1,adult,vegetative,NA,NA,NA,Galium,50.Open
+50,Open,NA,NA,Galium,2,1,adult,fruiting,NA,NA,15,Galium,50.Open
+50,Open,NA,NA,Galium,3,1,adult,fruiting,NA,NA,5,Galium,50.Open
+50,Open,NA,NA,Genciana,1,2,adult,vegetative,NA,NA,NA,Gentiana,50.Open
+51,Hormathophylla,30,27,Jasione,1,5,adult,fruiting,NA,NA,6,Jasione,51.Hormathophylla
+51,Hormathophylla,30,27,Nevadensia purpúrea,1,1.7,adult,fruiting,NA,NA,14,Nevadensia purpurea,51.Hormathophylla
+51,Hormathophylla,30,27,Nevadensia purpúrea,2,1.7,adult,fruiting,NA,NA,26,Nevadensia purpurea,51.Hormathophylla
+51,Hormathophylla,30,27,Nevadensia purpúrea,3,1.7,adult,fruiting,NA,NA,2,Nevadensia purpurea,51.Hormathophylla
+52,Arenaria tetraqetra,37,17,Nevadensia purpúrea,1,0.5,adult,vegetative,NA,NA,NA,Nevadensia purpurea,52.Arenaria tetraqetra
+52,Arenaria tetraqetra,37,17,Nevadensia purpúrea,2,0.5,adult,vegetative,NA,NA,NA,Nevadensia purpurea,52.Arenaria tetraqetra
+52,Arenaria tetraqetra,37,17,Jasione,1,1.75,adult,vegetative,NA,NA,NA,Jasione,52.Arenaria tetraqetra
+52,Arenaria tetraqetra,37,17,Jasione,2,1.75,adult,fruiting,NA,NA,2,Jasione,52.Arenaria tetraqetra
+52,Arenaria tetraqetra,37,17,Jasione,3,1.75,adult,fruiting,NA,NA,2,Jasione,52.Arenaria tetraqetra
+52,Arenaria tetraqetra,37,17,Jasione,4,1.75,adult,fruiting,NA,NA,5,Jasione,52.Arenaria tetraqetra
+52,Arenaria tetraqetra,37,17,Galium,1,0.8,adult,fruiting,NA,NA,7.7,Galium,52.Arenaria tetraqetra
+52,Arenaria tetraqetra,37,17,Galium,2,0.8,adult,fruiting,NA,NA,7.7,Galium,52.Arenaria tetraqetra
+52,Arenaria tetraqetra,37,17,Galium,3,0.8,adult,fruiting,NA,NA,7.7,Galium,52.Arenaria tetraqetra
+52,Arenaria tetraqetra,37,17,Galium,4,0.8,adult,fruiting,NA,NA,7.7,Galium,52.Arenaria tetraqetra
+52,Arenaria tetraqetra,37,17,Galium,5,0.8,adult,fruiting,NA,NA,7.7,Galium,52.Arenaria tetraqetra
+52,Arenaria tetraqetra,37,17,Galium,6,0.8,adult,fruiting,NA,NA,7.7,Galium,52.Arenaria tetraqetra
+52,Arenaria tetraqetra,37,17,Galium,7,0.8,adult,fruiting,NA,NA,7.7,Galium,52.Arenaria tetraqetra
+52,Arenaria tetraqetra,37,17,Galium,8,0.8,adult,fruiting,NA,NA,7.7,Galium,52.Arenaria tetraqetra
+52,Arenaria tetraqetra,37,17,Galium,9,0.8,adult,fruiting,NA,NA,7.7,Galium,52.Arenaria tetraqetra
+52,Arenaria tetraqetra,37,17,Galium,10,0.8,adult,fruiting,NA,NA,7.7,Galium,52.Arenaria tetraqetra
+52,Arenaria tetraqetra,37,17,Galium,11,0.8,adult,fruiting,NA,NA,7.7,Galium,52.Arenaria tetraqetra
+52,Arenaria tetraqetra,37,17,Galium,12,0.8,adult,fruiting,NA,NA,7.7,Galium,52.Arenaria tetraqetra
+52,Arenaria tetraqetra,37,17,Galium,13,0.8,adult,fruiting,NA,NA,7.7,Galium,52.Arenaria tetraqetra
+52,Arenaria tetraqetra,37,17,Hormathophylla,1,2,juvenile,NA,NA,NA,NA,Hormathophylla,52.Arenaria tetraqetra
+53,Open,NA,NA,Nevadensia purpúrea,1,1,adult,fruiting,NA,NA,8,Nevadensia purpurea,53.Open
+53,Open,NA,NA,Nevadensia purpúrea,2,1,adult,fruiting,NA,NA,3,Nevadensia purpurea,53.Open
+55,Arenaria tetraqetra,21,18,Sideritis,1,3,juvenile,NA,NA,NA,NA,Sideritis,55.Arenaria tetraqetra
+55,Arenaria tetraqetra,21,18,Jasione,1,2,adult,fruiting,NA,NA,1,Jasione,55.Arenaria tetraqetra
+55,Arenaria tetraqetra,21,18,Galium,1,0.7,adult,flowering,NA,22.2,NA,Galium,55.Arenaria tetraqetra
+55,Arenaria tetraqetra,21,18,Galium,2,0.7,adult,flowering,NA,22.2,NA,Galium,55.Arenaria tetraqetra
+55,Arenaria tetraqetra,21,18,Galium,3,0.7,adult,flowering,NA,22.2,NA,Galium,55.Arenaria tetraqetra
+55,Arenaria tetraqetra,21,18,Galium,4,0.7,adult,flowering,NA,22.2,NA,Galium,55.Arenaria tetraqetra
+55,Arenaria tetraqetra,21,18,Galium,5,0.7,adult,flowering,NA,22.2,NA,Galium,55.Arenaria tetraqetra
+55,Arenaria tetraqetra,21,18,Galium,6,0.7,adult,flowering,NA,22.2,NA,Galium,55.Arenaria tetraqetra
+55,Arenaria tetraqetra,21,18,Galium,7,0.7,adult,flowering,NA,22.2,NA,Galium,55.Arenaria tetraqetra
+55,Arenaria tetraqetra,21,18,Galium,8,0.7,adult,flowering,NA,22.2,NA,Galium,55.Arenaria tetraqetra
+55,Arenaria tetraqetra,21,18,Galium,9,0.7,adult,vegetative,NA,NA,NA,Galium,55.Arenaria tetraqetra
+56,Open,NA,NA,Nevadensia purpúrea,1,1,adult,vegetative,NA,NA,NA,Nevadensia purpurea,56.Open
+57,Hormathophylla,41,29,Jasione,1,1.7,adult,fruiting,NA,NA,6,Jasione,57.Hormathophylla
+57,Hormathophylla,41,29,Jasione,2,1.7,adult,fruiting,NA,NA,7,Jasione,57.Hormathophylla
+57,Hormathophylla,41,29,Jasione,3,1.7,adult,fruiting,NA,NA,3,Jasione,57.Hormathophylla
+57,Hormathophylla,41,29,Jasione,4,1.7,adult,fruiting,NA,NA,1,Jasione,57.Hormathophylla
+57,Hormathophylla,41,29,Jasione,5,1.7,adult,fruiting,NA,NA,5,Jasione,57.Hormathophylla
+57,Hormathophylla,41,29,Jasione,6,1.7,adult,fruiting,NA,NA,6,Jasione,57.Hormathophylla
+57,Hormathophylla,41,29,Jasione,7,1.7,adult,fruiting,NA,NA,6,Jasione,57.Hormathophylla
+57,Hormathophylla,41,29,Jasione,8,1.7,adult,fruiting,NA,NA,10,Jasione,57.Hormathophylla
+57,Hormathophylla,41,29,Jasione,9,1.7,adult,fruiting,NA,NA,5,Jasione,57.Hormathophylla
+57,Hormathophylla,41,29,Jasione,10,1.7,adult,fruiting,NA,NA,4,Jasione,57.Hormathophylla
+57,Hormathophylla,41,29,Arenaria,1,6,adult,flowering,NA,40,NA,Arenaria,57.Hormathophylla
+57,Hormathophylla,41,29,Nevadensia purpúrea,1,0.7,adult,fruiting,NA,NA,6,Nevadensia purpurea,57.Hormathophylla
+57,Hormathophylla,41,29,Nevadensia purpúrea,2,0.7,adult,fruiting,NA,NA,4,Nevadensia purpurea,57.Hormathophylla
+57,Hormathophylla,41,29,Nevadensia purpúrea,3,0.7,adult,fruiting,NA,NA,2,Nevadensia purpurea,57.Hormathophylla
+58,Arenaria tetraqetra,18,20,Anthyllis,1,2.5,adult,vegetative,NA,NA,NA,Anthyllis,58.Arenaria tetraqetra
+58,Arenaria tetraqetra,18,20,Anthyllis,2,2.5,adult,budding,1,NA,NA,Anthyllis,58.Arenaria tetraqetra
+58,Arenaria tetraqetra,18,20,Leontodon,1,2,adult,flowering,NA,1,NA,Leontodon,58.Arenaria tetraqetra
+58,Arenaria tetraqetra,18,20,Leontodon,2,2,adult,budding,2,NA,NA,Leontodon,58.Arenaria tetraqetra
+58,Arenaria tetraqetra,18,20,Leontodon,3,2,adult,budding,1,NA,NA,Leontodon,58.Arenaria tetraqetra
+58,Arenaria tetraqetra,18,20,Jasione,1,0.5,adult,fruiting,NA,1,3,Jasione,58.Arenaria tetraqetra
+58,Arenaria tetraqetra,18,20,Jasione,2,0.5,adult,fruiting,NA,2,2,Jasione,58.Arenaria tetraqetra
+58,Arenaria tetraqetra,18,20,Jasione,3,0.5,adult,flowering,3,3,NA,Jasione,58.Arenaria tetraqetra
+58,Arenaria tetraqetra,18,20,Jasione,4,0.5,adult,fruiting,NA,3,4,Jasione,58.Arenaria tetraqetra
+58,Arenaria tetraqetra,18,20,Jasione,5,0.5,adult,vegetative,NA,NA,NA,Jasione,58.Arenaria tetraqetra
+58,Arenaria tetraqetra,18,20,Jasione,6,0.5,adult,vegetative,NA,NA,NA,Jasione,58.Arenaria tetraqetra
+58,Arenaria tetraqetra,18,20,Jasione,7,0.5,adult,vegetative,NA,NA,NA,Jasione,58.Arenaria tetraqetra
+58,Arenaria tetraqetra,18,20,Jasione,8,0.5,adult,vegetative,NA,NA,NA,Jasione,58.Arenaria tetraqetra
+58,Arenaria tetraqetra,18,20,Galium,1,0.6,adult,fruiting,NA,NA,9,Galium,58.Arenaria tetraqetra
+58,Arenaria tetraqetra,18,20,Galium,2,0.6,adult,fruiting,NA,NA,9,Galium,58.Arenaria tetraqetra
+58,Arenaria tetraqetra,18,20,Galium,3,0.6,adult,fruiting,NA,NA,9,Galium,58.Arenaria tetraqetra
+58,Arenaria tetraqetra,18,20,Galium,4,0.6,adult,fruiting,NA,NA,9,Galium,58.Arenaria tetraqetra
+58,Arenaria tetraqetra,18,20,Galium,5,0.6,adult,fruiting,NA,NA,9,Galium,58.Arenaria tetraqetra
+58,Arenaria tetraqetra,18,20,Galium,6,0.6,adult,fruiting,NA,NA,9,Galium,58.Arenaria tetraqetra
+58,Arenaria tetraqetra,18,20,Galium,7,0.6,adult,fruiting,NA,NA,9,Galium,58.Arenaria tetraqetra
+58,Arenaria tetraqetra,18,20,Galium,8,0.6,adult,fruiting,NA,NA,9,Galium,58.Arenaria tetraqetra
+58,Arenaria tetraqetra,18,20,Galium,9,0.6,adult,fruiting,NA,NA,9,Galium,58.Arenaria tetraqetra
+58,Arenaria tetraqetra,18,20,Galium,10,0.6,adult,fruiting,NA,NA,9,Galium,58.Arenaria tetraqetra
+58,Arenaria tetraqetra,18,20,Galium,11,0.6,adult,fruiting,NA,NA,9,Galium,58.Arenaria tetraqetra
+59,Open,NA,NA,Sideritis,1,1,juvenile,NA,NA,NA,NA,Sideritis,59.Open
+59,Open,NA,NA,Sideritis,2,1,adult,budding,1,NA,NA,Sideritis,59.Open
+61,Arenaria tetraqetra,36,28,Nevadensia purpúrea,1,1,adult,fruiting,NA,NA,2,Nevadensia purpurea,61.Arenaria tetraqetra
+61,Arenaria tetraqetra,36,28,Galium,1,1,adult,vegetative,NA,NA,NA,Galium,61.Arenaria tetraqetra
+62,Open,NA,NA,Galium,1,1.1,adult,fruiting,NA,NA,16.7,Galium,62.Open
+62,Open,NA,NA,Galium,2,1.1,adult,fruiting,NA,NA,16.7,Galium,62.Open
+62,Open,NA,NA,Galium,3,1.1,adult,fruiting,NA,NA,16.7,Galium,62.Open
+62,Open,NA,NA,Galium,4,1.1,adult,fruiting,NA,NA,16.7,Galium,62.Open
+62,Open,NA,NA,Galium,5,1.1,adult,fruiting,NA,NA,16.7,Galium,62.Open
+62,Open,NA,NA,Galium,6,1.1,adult,fruiting,NA,NA,16.7,Galium,62.Open
+62,Open,NA,NA,Galium,7,1.1,adult,vegetative,NA,NA,NA,Galium,62.Open
+62,Open,NA,NA,Galium,8,1.1,adult,vegetative,NA,NA,NA,Galium,62.Open
+62,Open,NA,NA,Galium,9,1.1,adult,vegetative,NA,NA,NA,Galium,62.Open
+63,Hormathophylla,37,34,Jasione,1,5,adult,flowering,NA,6,NA,Jasione,63.Hormathophylla
+63,Hormathophylla,37,34,Hormathophylla,1,1,seedling,NA,NA,NA,NA,Hormathophylla,63.Hormathophylla
+63,Hormathophylla,37,34,Galium,1,1,adult,vegetative,NA,NA,NA,Galium,63.Hormathophylla
+64,Arenaria tetraqetra,36,27,Hormathophylla,1,3,adult,vegetative,NA,NA,NA,Hormathophylla,64.Arenaria tetraqetra
+64,Arenaria tetraqetra,36,27,Galium,1,0.6,adult,vegetative,NA,NA,NA,Galium,64.Arenaria tetraqetra
+64,Arenaria tetraqetra,36,27,Galium,2,0.6,adult,vegetative,NA,NA,NA,Galium,64.Arenaria tetraqetra
+64,Arenaria tetraqetra,36,27,Galium,3,0.6,adult,fruiting,NA,NA,12.5,Galium,64.Arenaria tetraqetra
+64,Arenaria tetraqetra,36,27,Galium,4,0.6,adult,fruiting,NA,NA,12.5,Galium,64.Arenaria tetraqetra
+64,Arenaria tetraqetra,36,27,Galium,5,0.6,adult,fruiting,NA,NA,12.5,Galium,64.Arenaria tetraqetra
+64,Arenaria tetraqetra,36,27,Galium,6,0.6,adult,fruiting,NA,NA,12.5,Galium,64.Arenaria tetraqetra
+64,Arenaria tetraqetra,36,27,Galium,7,0.6,adult,flowering,NA,1,NA,Galium,64.Arenaria tetraqetra
+64,Arenaria tetraqetra,36,27,Jasione,1,2,adult,flowering,NA,1,NA,Jasione,64.Arenaria tetraqetra
+65,Open,NA,NA,Anthyllis,1,3,adult,budding,1,NA,NA,Anthyllis,65.Open
+65,Open,NA,NA,Arenaria,1,1,seedling,NA,NA,NA,NA,Arenaria,65.Open
+67,Arenaria tetraqetra,33,25,Jasione,1,2,adult,fruiting,NA,NA,1,Jasione,67.Arenaria tetraqetra
+67,Arenaria tetraqetra,33,25,Jasione,2,2,adult,fruiting,NA,NA,2,Jasione,67.Arenaria tetraqetra
+67,Arenaria tetraqetra,33,25,Galium,1,0.6,adult,vegetative,NA,NA,NA,Galium,67.Arenaria tetraqetra
+67,Arenaria tetraqetra,33,25,Galium,2,0.6,adult,vegetative,NA,NA,NA,Galium,67.Arenaria tetraqetra
+67,Arenaria tetraqetra,33,25,Galium,3,0.6,adult,vegetative,NA,NA,NA,Galium,67.Arenaria tetraqetra
+67,Arenaria tetraqetra,33,25,Galium,4,0.6,adult,vegetative,NA,NA,NA,Galium,67.Arenaria tetraqetra
+67,Arenaria tetraqetra,33,25,Galium,5,0.6,adult,vegetative,NA,NA,NA,Galium,67.Arenaria tetraqetra
+67,Arenaria tetraqetra,33,25,Galium,6,0.6,adult,vegetative,NA,NA,NA,Galium,67.Arenaria tetraqetra
+67,Arenaria tetraqetra,33,25,Galium,7,0.6,adult,vegetative,NA,NA,NA,Galium,67.Arenaria tetraqetra
+67,Arenaria tetraqetra,33,25,Galium,8,0.6,adult,fruiting,NA,NA,2,Galium,67.Arenaria tetraqetra
+67,Arenaria tetraqetra,33,25,Galium,9,0.6,adult,fruiting,NA,NA,30,Galium,67.Arenaria tetraqetra
+68,Open,NA,NA,Nevadensia purpúrea,1,1,adult,fruiting,NA,NA,5,Nevadensia purpurea,68.Open
+68,Open,NA,NA,Nevadensia purpúrea,2,1,adult,vegetative,NA,NA,NA,Nevadensia purpurea,68.Open
+68,Open,NA,NA,Nevadensia purpúrea,3,1,adult,vegetative,NA,NA,NA,Nevadensia purpurea,68.Open
+68,Open,NA,NA,Viola,1,3,adult,fruiting,NA,NA,2,Viola,68.Open
+69,Hormathophylla,32,29,Silene,1,1,adult,vegetative,NA,NA,NA,Silene,69.Hormathophylla
+69,Hormathophylla,32,29,Silene,2,1,adult,vegetative,NA,NA,NA,Silene,69.Hormathophylla
+69,Hormathophylla,32,29,Silene,3,1,adult,vegetative,NA,NA,NA,Silene,69.Hormathophylla
+69,Hormathophylla,32,29,Silene,4,1,adult,vegetative,NA,NA,NA,Silene,69.Hormathophylla
+69,Hormathophylla,32,29,Silene,5,1,adult,vegetative,NA,NA,NA,Silene,69.Hormathophylla
+69,Hormathophylla,32,29,Silene,6,1,adult,vegetative,NA,NA,NA,Silene,69.Hormathophylla
+70,Arenaria tetraqetra,30,25,Galium,1,1,adult,vegetative,NA,NA,NA,Galium,70.Arenaria tetraqetra
+70,Arenaria tetraqetra,30,25,Galium,2,1,adult,vegetative,NA,NA,NA,Galium,70.Arenaria tetraqetra
+70,Arenaria tetraqetra,30,25,Jasione,1,1.25,adult,flowering,NA,2,NA,Jasione,70.Arenaria tetraqetra
+70,Arenaria tetraqetra,30,25,Jasione,2,1.25,adult,flowering,NA,2,NA,Jasione,70.Arenaria tetraqetra
+70,Arenaria tetraqetra,30,25,Jasione,3,1.25,adult,fruiting,NA,NA,2,Jasione,70.Arenaria tetraqetra
+70,Arenaria tetraqetra,30,25,Jasione,4,1.25,adult,fruiting,NA,NA,5,Jasione,70.Arenaria tetraqetra
+71,Open,NA,NA,Silene,1,1.5,adult,vegetative,NA,NA,NA,Silene,71.Open
+71,Open,NA,NA,Silene,2,1.5,adult,vegetative,NA,NA,NA,Silene,71.Open
+73,Arenaria tetraqetra,43,22,Jasione,1,0.75,adult,NA,NA,NA,NA,Jasione,73.Arenaria tetraqetra
+73,Arenaria tetraqetra,43,22,Jasione,2,0.75,adult,NA,NA,NA,NA,Jasione,73.Arenaria tetraqetra
+73,Arenaria tetraqetra,43,22,Jasione,3,0.75,adult,NA,NA,NA,NA,Jasione,73.Arenaria tetraqetra
+73,Arenaria tetraqetra,43,22,Jasione,4,0.75,adult,flowering,NA,1,NA,Jasione,73.Arenaria tetraqetra
+73,Arenaria tetraqetra,43,22,Nevadensia purpúrea,1,1,adult,vegetative,NA,NA,NA,Nevadensia purpurea,73.Arenaria tetraqetra
+76,Arenaria tetraqetra,23,21,Hormathophylla,1,3.5,juvenile,NA,NA,NA,NA,Hormathophylla,76.Arenaria tetraqetra
+76,Arenaria tetraqetra,23,21,Hormathophylla,2,3.5,juvenile,NA,NA,NA,NA,Hormathophylla,76.Arenaria tetraqetra
+76,Arenaria tetraqetra,23,21,Sideritis,1,2,juvenile,NA,NA,NA,NA,Sideritis,76.Arenaria tetraqetra
+80,Open,NA,NA,Vaccinium oliginosum,1,1.7,adult,vegetative,NA,NA,NA,Vaccinium,80.Open
+80,Open,NA,NA,Vaccinium oliginosum,2,1.7,adult,vegetative,NA,NA,NA,Vaccinium,80.Open
+80,Open,NA,NA,Vaccinium oliginosum,3,1.7,adult,vegetative,NA,NA,NA,Vaccinium,80.Open
+81,Hormathophylla,30,26,Biscutella glaciale,1,1,adult,fruiting,NA,NA,2,Biscutella,81.Hormathophylla
+81,Hormathophylla,30,26,Arenaria,1,3,adult,flowering,NA,1,NA,Arenaria,81.Hormathophylla
+81,Hormathophylla,30,26,Jasione,1,2,adult,vegetative,NA,NA,NA,Jasione,81.Hormathophylla
+81,Hormathophylla,30,26,Jasione,2,2,adult,flowering,NA,1,NA,Jasione,81.Hormathophylla
+81,Hormathophylla,30,26,Vaccinium oliginosum,1,3,adult,flowering,NA,1,NA,Vaccinium,81.Hormathophylla
+81,Hormathophylla,30,26,Vaccinium oliginosum,2,3,adult,vegetative,NA,NA,NA,Vaccinium,81.Hormathophylla
+81,Hormathophylla,30,26,Vaccinium oliginosum,3,3,adult,vegetative,NA,NA,NA,Vaccinium,81.Hormathophylla
+81,Hormathophylla,30,26,Vaccinium oliginosum,4,3,adult,vegetative,NA,NA,NA,Vaccinium,81.Hormathophylla
+81,Hormathophylla,30,26,Vaccinium oliginosum,5,3,adult,vegetative,NA,NA,NA,Vaccinium,81.Hormathophylla
+82,Arenaria tetraqetra,28,20,Nevadensia purpúrea,1,4,adult,vegetative,NA,NA,NA,Nevadensia purpurea,82.Arenaria tetraqetra
+82,Arenaria tetraqetra,28,20,Galium,1,2,adult,vegetative,NA,NA,NA,Galium,82.Arenaria tetraqetra
+82,Arenaria tetraqetra,28,20,Galium,2,2,adult,fruiting,NA,NA,30,Galium,82.Arenaria tetraqetra
+82,Arenaria tetraqetra,28,20,Galium,3,2,adult,fruiting,NA,NA,30,Galium,82.Arenaria tetraqetra
+82,Arenaria tetraqetra,28,20,Jasione,1,1.7,adult,vegetative,NA,NA,NA,Jasione,82.Arenaria tetraqetra
+82,Arenaria tetraqetra,28,20,Jasione,2,1.7,adult,fruiting,NA,NA,1,Jasione,82.Arenaria tetraqetra
+82,Arenaria tetraqetra,28,20,Jasione,3,1.7,adult,flowering,NA,4,NA,Jasione,82.Arenaria tetraqetra
+83,Open,NA,NA,Nevadensia purpúrea,1,1,adult,vegetative,NA,NA,NA,Nevadensia purpurea,83.Open
+83,Open,NA,NA,Nevadensia purpúrea,2,1,adult,vegetative,NA,NA,NA,Nevadensia purpurea,83.Open
+83,Open,NA,NA,Nevadensia purpúrea,3,1,adult,vegetative,NA,NA,NA,Nevadensia purpurea,83.Open
+83,Open,NA,NA,Nevadensia purpúrea,4,1,adult,fruiting,NA,NA,3,Nevadensia purpurea,83.Open
+83,Open,NA,NA,Nevadensia purpúrea,5,1,adult,fruiting,NA,NA,11,Nevadensia purpurea,83.Open
+85,Arenaria tetraqetra,26,23,Anthyllis,1,2,adult,flowering,NA,2,NA,Anthyllis,85.Arenaria tetraqetra
+85,Arenaria tetraqetra,26,23,Hormathophylla,1,1,juvenile,NA,NA,NA,NA,Hormathophylla,85.Arenaria tetraqetra
+86,Open,NA,NA,Galium,1,1,adult,vegetative,NA,NA,NA,Galium,86.Open
+86,Open,NA,NA,Biscutella glaciale,1,3,adult,vegetative,NA,NA,NA,Biscutella,86.Open
+86,Open,NA,NA,Anthyllis,1,3,adult,fruiting,NA,NA,2,Anthyllis,86.Open
+87,Hormathophylla,76,52,Chaenorhinum glareosum,1,5,adult,flowering,NA,14,NA,Chaenorhinum,87.Hormathophylla
+87,Hormathophylla,76,52,Viola,1,2,adult,vegetative,NA,NA,NA,Viola,87.Hormathophylla
+87,Hormathophylla,76,52,Viola,2,2,adult,vegetative,NA,NA,NA,Viola,87.Hormathophylla
+87,Hormathophylla,76,52,Viola,3,2,adult,vegetative,NA,NA,NA,Viola,87.Hormathophylla
+87,Hormathophylla,76,52,Viola,4,2,adult,vegetative,NA,NA,NA,Viola,87.Hormathophylla
+87,Hormathophylla,76,52,Viola,5,2,adult,flowering,NA,1,NA,Viola,87.Hormathophylla
+87,Hormathophylla,76,52,Viola,6,2,adult,fruiting,NA,NA,1,Viola,87.Hormathophylla
+87,Hormathophylla,76,52,Viola,7,2,adult,fruiting,NA,NA,1,Viola,87.Hormathophylla
+87,Hormathophylla,76,52,Viola,8,2,adult,fruiting,NA,NA,1,Viola,87.Hormathophylla
+87,Hormathophylla,76,52,Viola,9,2,adult,fruiting,NA,NA,1,Viola,87.Hormathophylla
+87,Hormathophylla,76,52,Viola,10,2,adult,fruiting,NA,NA,1,Viola,87.Hormathophylla
+88,Arenaria tetraqetra,23,20,Galium,1,1.2,adult,vegetative,NA,NA,NA,Galium,88.Arenaria tetraqetra
+88,Arenaria tetraqetra,23,20,Galium,2,1.2,adult,vegetative,NA,NA,NA,Galium,88.Arenaria tetraqetra
+88,Arenaria tetraqetra,23,20,Galium,3,1.2,adult,fruiting,NA,NA,30.8,Galium,88.Arenaria tetraqetra
+88,Arenaria tetraqetra,23,20,Galium,4,1.2,adult,fruiting,NA,NA,30.8,Galium,88.Arenaria tetraqetra
+88,Arenaria tetraqetra,23,20,Galium,5,1.2,adult,fruiting,NA,NA,30.8,Galium,88.Arenaria tetraqetra
+88,Arenaria tetraqetra,23,20,Galium,6,1.2,adult,fruiting,NA,NA,30.8,Galium,88.Arenaria tetraqetra
+88,Arenaria tetraqetra,23,20,Galium,7,1.2,adult,fruiting,NA,NA,30.8,Galium,88.Arenaria tetraqetra
+88,Arenaria tetraqetra,23,20,Galium,8,1.2,adult,fruiting,NA,NA,30.8,Galium,88.Arenaria tetraqetra
+88,Arenaria tetraqetra,23,20,Galium,9,1.2,adult,fruiting,NA,NA,30.8,Galium,88.Arenaria tetraqetra
+88,Arenaria tetraqetra,23,20,Galium,10,1.2,adult,fruiting,NA,NA,30.8,Galium,88.Arenaria tetraqetra
+88,Arenaria tetraqetra,23,20,Galium,11,1.2,adult,fruiting,NA,NA,30.8,Galium,88.Arenaria tetraqetra
+88,Arenaria tetraqetra,23,20,Galium,12,1.2,adult,fruiting,NA,NA,30.8,Galium,88.Arenaria tetraqetra
+88,Arenaria tetraqetra,23,20,Galium,13,1.2,adult,fruiting,NA,NA,30.8,Galium,88.Arenaria tetraqetra
+88,Arenaria tetraqetra,23,20,Hormathophylla,1,3,juvenile,NA,NA,NA,NA,Hormathophylla,88.Arenaria tetraqetra
+89,Open,NA,NA,Hormathophylla,1,0.2,seedling,NA,NA,NA,NA,Hormathophylla,89.Open
+89,Open,NA,NA,Hormathophylla,2,0.2,seedling,NA,NA,NA,NA,Hormathophylla,89.Open
+89,Open,NA,NA,Hormathophylla,3,0.2,seedling,NA,NA,NA,NA,Hormathophylla,89.Open
+90,Hormathophylla,32,28,Cardus ,1,15,adult,vegetative,NA,NA,NA,Carduus,90.Hormathophylla
+90,Hormathophylla,32,28,Galium,1,1.8,adult,vegetative,NA,NA,NA,Galium,90.Hormathophylla
+90,Hormathophylla,32,28,Galium,2,1.8,adult,vegetative,NA,NA,NA,Galium,90.Hormathophylla
+90,Hormathophylla,32,28,Galium,3,1.8,adult,vegetative,NA,NA,NA,Galium,90.Hormathophylla
+90,Hormathophylla,32,28,Galium,4,1.8,adult,fruiting,NA,NA,20,Galium,90.Hormathophylla
+90,Hormathophylla,32,28,Galium,5,1.8,adult,fruiting,NA,NA,40,Galium,90.Hormathophylla
+90,Hormathophylla,32,28,Viola,1,1,seedling,NA,NA,NA,NA,Viola,90.Hormathophylla
+91,Arenaria tetraqetra,27,20,Nevadensia purpúrea,1,1,adult,vegetative,NA,NA,NA,Nevadensia purpurea,91.Arenaria tetraqetra
+91,Arenaria tetraqetra,27,20,Nevadensia purpúrea,2,1,adult,vegetative,NA,NA,NA,Nevadensia purpurea,91.Arenaria tetraqetra
+91,Arenaria tetraqetra,27,20,Galium,1,0.63,,vegetative,NA,NA,NA,Galium,91.Arenaria tetraqetra
+91,Arenaria tetraqetra,27,20,Galium,2,0.63,,vegetative,NA,NA,NA,Galium,91.Arenaria tetraqetra
+91,Arenaria tetraqetra,27,20,Galium,3,0.63,,vegetative,NA,NA,NA,Galium,91.Arenaria tetraqetra
+91,Arenaria tetraqetra,27,20,Galium,4,0.63,,vegetative,NA,NA,NA,Galium,91.Arenaria tetraqetra
+91,Arenaria tetraqetra,27,20,Galium,5,0.63,,vegetative,NA,NA,NA,Galium,91.Arenaria tetraqetra
+91,Arenaria tetraqetra,27,20,Galium,6,0.63,,vegetative,NA,NA,NA,Galium,91.Arenaria tetraqetra
+91,Arenaria tetraqetra,27,20,Galium,7,0.63,,vegetative,NA,NA,NA,Galium,91.Arenaria tetraqetra
+91,Arenaria tetraqetra,27,20,Galium,8,0.63,,fruiting,NA,NA,2,Galium,91.Arenaria tetraqetra
+91,Arenaria tetraqetra,27,20,Jasione,1,1,adult,vegetative,NA,NA,NA,Jasione,91.Arenaria tetraqetra
+93,Hormathophylla,36,30,Trisetum glaciales,1,1,adult,vegetative,NA,NA,NA,Trisetum,93.Hormathophylla
+93,Hormathophylla,36,30,Galium,1,2,adult,vegetative,NA,NA,NA,Galium,93.Hormathophylla
+94,Arenaria tetraqetra,43,17,Galium,1,1.5,adult,vegetative,NA,NA,NA,Galium,94.Arenaria tetraqetra
+94,Arenaria tetraqetra,43,17,Galium,2,1.5,adult,vegetative,NA,NA,NA,Galium,94.Arenaria tetraqetra
+94,Arenaria tetraqetra,43,17,Galium,3,1.5,adult,vegetative,NA,NA,NA,Galium,94.Arenaria tetraqetra
+94,Arenaria tetraqetra,43,17,Galium,4,1.5,adult,vegetative,NA,NA,NA,Galium,94.Arenaria tetraqetra
+94,Arenaria tetraqetra,43,17,Galium,5,1.5,adult,vegetative,NA,NA,NA,Galium,94.Arenaria tetraqetra
+94,Arenaria tetraqetra,43,17,Galium,6,1.5,adult,fruiting,NA,NA,24,Galium,94.Arenaria tetraqetra
+94,Arenaria tetraqetra,43,17,Galium,7,1.5,adult,fruiting,NA,NA,24,Galium,94.Arenaria tetraqetra
+94,Arenaria tetraqetra,43,17,Galium,8,1.5,adult,fruiting,NA,NA,24,Galium,94.Arenaria tetraqetra
+94,Arenaria tetraqetra,43,17,Galium,9,1.5,adult,fruiting,NA,NA,24,Galium,94.Arenaria tetraqetra
+94,Arenaria tetraqetra,43,17,Galium,10,1.5,adult,fruiting,NA,NA,24,Galium,94.Arenaria tetraqetra
+94,Arenaria tetraqetra,43,17,Nevadensia purpúrea,1,1,adult,vegetative,NA,NA,NA,Nevadensia purpurea,94.Arenaria tetraqetra
+94,Arenaria tetraqetra,43,17,Nevadensia purpúrea,2,1,adult,vegetative,NA,NA,NA,Nevadensia purpurea,94.Arenaria tetraqetra
+94,Arenaria tetraqetra,43,17,Jasione,1,1.3,adult,vegetative,NA,NA,NA,Jasione,94.Arenaria tetraqetra
+94,Arenaria tetraqetra,43,17,Jasione,2,1.3,adult,flowering,NA,2,NA,Jasione,94.Arenaria tetraqetra
+94,Arenaria tetraqetra,43,17,Jasione,3,1.3,adult,flowering,NA,1,NA,Jasione,94.Arenaria tetraqetra
+95,Open,NA,NA,Nevadensia purpúrea,1,1,adult,vegetative,NA,NA,NA,Nevadensia purpurea,95.Open
+95,Open,NA,NA,Nevadensia purpúrea,2,1,adult,vegetative,NA,NA,NA,Nevadensia purpurea,95.Open
+95,Open,NA,NA,Nevadensia purpúrea,3,1,adult,fruiting,NA,NA,1,Nevadensia purpurea,95.Open
+95,Open,NA,NA,Galium,1,1.5,adult,vegetative,NA,NA,NA,Galium,95.Open
+95,Open,NA,NA,Galium,2,1.5,adult,fruiting,NA,NA,6,Galium,95.Open
+96,Hormathophylla,53,42,Viola,1,2,adult,fruiting,NA,NA,4.2,Viola,96.Hormathophylla
+96,Hormathophylla,53,42,Viola,2,2,adult,fruiting,NA,NA,4.2,Viola,96.Hormathophylla
+96,Hormathophylla,53,42,Viola,3,2,adult,fruiting,NA,NA,4.2,Viola,96.Hormathophylla
+96,Hormathophylla,53,42,Viola,4,2,adult,fruiting,NA,NA,4.2,Viola,96.Hormathophylla
+96,Hormathophylla,53,42,Viola,5,2,adult,fruiting,NA,NA,4.2,Viola,96.Hormathophylla
+96,Hormathophylla,53,42,Nevadensia purpúrea,1,0.5,adult,vegetative,NA,NA,NA,Nevadensia purpurea,96.Hormathophylla
+96,Hormathophylla,53,42,Nevadensia purpúrea,2,0.5,adult,vegetative,NA,NA,NA,Nevadensia purpurea,96.Hormathophylla
+96,Hormathophylla,53,42,Jasione,1,4,adult,flowering,NA,1,NA,Jasione,96.Hormathophylla
+97,Arenaria tetraqetra,28,19,Anthyllis,1,4,adult,fruiting,NA,3,4,Anthyllis,97.Arenaria tetraqetra
+97,Arenaria tetraqetra,28,19,Galium,1,1.1,,vegetative,NA,NA,NA,Galium,97.Arenaria tetraqetra
+97,Arenaria tetraqetra,28,19,Galium,2,1.1,,vegetative,NA,NA,NA,Galium,97.Arenaria tetraqetra
+97,Arenaria tetraqetra,28,19,Galium,3,1.1,,fruiting,NA,NA,12,Galium,97.Arenaria tetraqetra
+97,Arenaria tetraqetra,28,19,Galium,4,1.1,,fruiting,NA,NA,12,Galium,97.Arenaria tetraqetra
+97,Arenaria tetraqetra,28,19,Galium,5,1.1,,fruiting,NA,NA,12,Galium,97.Arenaria tetraqetra
+97,Arenaria tetraqetra,28,19,Galium,6,1.1,,fruiting,NA,NA,12,Galium,97.Arenaria tetraqetra
+97,Arenaria tetraqetra,28,19,Galium,7,1.1,,fruiting,NA,NA,12,Galium,97.Arenaria tetraqetra
+97,Arenaria tetraqetra,28,19,Viola,1,1,adult,vegetative,NA,NA,NA,Viola,97.Arenaria tetraqetra
+98,Open,NA,NA,Viola,1,3,adult,vegetative,NA,NA,NA,Viola,98.Open
+98,Open,NA,NA,Jasione,1,3,adult,vegetative,NA,NA,NA,Jasione,98.Open
+99,Hormathophylla,40,30,Genciana,1,0.5,adult,vegetative,NA,NA,NA,Gentiana,99.Hormathophylla
+99,Hormathophylla,40,30,Genciana,2,0.5,adult,vegetative,NA,NA,NA,Gentiana,99.Hormathophylla
+99,Hormathophylla,40,30,Genciana,3,0.5,adult,vegetative,NA,NA,NA,Gentiana,99.Hormathophylla
+99,Hormathophylla,40,30,Genciana,4,0.5,adult,vegetative,NA,NA,NA,Gentiana,99.Hormathophylla
+99,Hormathophylla,40,30,Genciana,5,0.5,adult,vegetative,NA,NA,NA,Gentiana,99.Hormathophylla
+99,Hormathophylla,40,30,Genciana,6,0.5,adult,vegetative,NA,NA,NA,Gentiana,99.Hormathophylla
+99,Hormathophylla,40,30,Genciana,7,0.5,adult,vegetative,NA,NA,NA,Gentiana,99.Hormathophylla
+99,Hormathophylla,40,30,Genciana,8,0.5,adult,vegetative,NA,NA,NA,Gentiana,99.Hormathophylla
+99,Hormathophylla,40,30,Genciana,9,0.5,adult,budding,1,NA,NA,Gentiana,99.Hormathophylla
+99,Hormathophylla,40,30,Genciana,10,0.5,adult,budding,1,NA,NA,Gentiana,99.Hormathophylla
+99,Hormathophylla,40,30,Eryngium,1,1.5,adult,vegetative,NA,NA,NA,Eryngium,99.Hormathophylla
+99,Hormathophylla,40,30,Eryngium,2,1.5,juvenile,NA,NA,NA,NA,Eryngium,99.Hormathophylla
+99,Hormathophylla,40,30,Galium,1,3,adult,fruiting,NA,NA,50,Galium,99.Hormathophylla
+99,Hormathophylla,40,30,Galium,2,3,adult,NA,NA,NA,NA,Galium,99.Hormathophylla
+99,Hormathophylla,40,30,Jasione,1,5,adult,fruiting,1,NA,2,Jasione,99.Hormathophylla
+99,Hormathophylla,40,30,Nevadensia purpúrea,1,1,adult,fruiting,NA,NA,4,Nevadensia purpurea,99.Hormathophylla
+100,Arenaria tetraqetra,24,19,Nevadensia purpúrea,1,0.8,adult,fruiting,NA,NA,2,Nevadensia purpurea,100.Arenaria tetraqetra
+100,Arenaria tetraqetra,24,19,Nevadensia purpúrea,2,0.8,adult,vegetative,NA,NA,NA,Nevadensia purpurea,100.Arenaria tetraqetra
+100,Arenaria tetraqetra,24,19,Nevadensia purpúrea,3,0.8,adult,vegetative,NA,NA,NA,Nevadensia purpurea,100.Arenaria tetraqetra
+100,Arenaria tetraqetra,24,19,Nevadensia purpúrea,4,0.8,adult,vegetative,NA,NA,NA,Nevadensia purpurea,100.Arenaria tetraqetra
+100,Arenaria tetraqetra,24,19,Nevadensia purpúrea,5,0.8,adult,vegetative,NA,NA,NA,Nevadensia purpurea,100.Arenaria tetraqetra
+100,Arenaria tetraqetra,24,19,Jasione,1,1,adult,vegetative,NA,NA,NA,Jasione,100.Arenaria tetraqetra
+100,Arenaria tetraqetra,24,19,Jasione,2,1,adult,fruiting,NA,NA,2,Jasione,100.Arenaria tetraqetra
+100,Arenaria tetraqetra,24,19,Jasione,3,1,adult,fruiting,NA,NA,4,Jasione,100.Arenaria tetraqetra
+100,Arenaria tetraqetra,24,19,Genciana,1,0.6,adult,vegetative,NA,NA,NA,Gentiana,100.Arenaria tetraqetra
+100,Arenaria tetraqetra,24,19,Genciana,2,0.6,adult,vegetative,NA,NA,NA,Gentiana,100.Arenaria tetraqetra
+100,Arenaria tetraqetra,24,19,Genciana,3,0.6,adult,vegetative,NA,NA,NA,Gentiana,100.Arenaria tetraqetra
+100,Arenaria tetraqetra,24,19,Genciana,4,0.6,adult,vegetative,NA,NA,NA,Gentiana,100.Arenaria tetraqetra
+100,Arenaria tetraqetra,24,19,Genciana,5,0.6,adult,vegetative,NA,NA,NA,Gentiana,100.Arenaria tetraqetra
+100,Arenaria tetraqetra,24,19,Genciana,6,0.6,adult,vegetative,NA,NA,NA,Gentiana,100.Arenaria tetraqetra
+100,Arenaria tetraqetra,24,19,Genciana,7,0.6,adult,vegetative,NA,NA,NA,Gentiana,100.Arenaria tetraqetra
+100,Arenaria tetraqetra,24,19,Genciana,8,0.6,adult,vegetative,NA,NA,NA,Gentiana,100.Arenaria tetraqetra
+100,Arenaria tetraqetra,24,19,Genciana,9,0.6,adult,vegetative,NA,NA,NA,Gentiana,100.Arenaria tetraqetra
+100,Arenaria tetraqetra,24,19,Genciana,10,0.6,adult,vegetative,NA,NA,NA,Gentiana,100.Arenaria tetraqetra
+101,Open,NA,NA,Nevadensia purpúrea,1,1,adult,vegetative,NA,NA,NA,Nevadensia purpurea,101.Open
+101,Open,NA,NA,Viola,1,2,adult,fruiting,NA,NA,1,Viola,101.Open
+102,Hormathophylla,45,25,Leontodon,1,6,adult,budding,2,1,NA,Leontodon,102.Hormathophylla
+103,Arenaria tetraqetra,27,21,Erigeron,1,4,adult,flowering,NA,2,NA,Erigeron,103.Arenaria tetraqetra
+106,Arenaria tetraqetra,39,25,Lotus,1,0.5,adult,vegetative,NA,NA,NA,Lotus,106.Arenaria tetraqetra
+106,Arenaria tetraqetra,39,25,Lotus,2,0.5,adult,vegetative,NA,NA,NA,Lotus,106.Arenaria tetraqetra
+106,Arenaria tetraqetra,39,25,Lotus,3,0.5,adult,vegetative,NA,NA,NA,Lotus,106.Arenaria tetraqetra
+106,Arenaria tetraqetra,39,25,Lotus,4,0.5,adult,vegetative,NA,NA,NA,Lotus,106.Arenaria tetraqetra
+106,Arenaria tetraqetra,39,25,Leontodon,1,0.88,adult,vegetative,NA,NA,NA,Leontodon,106.Arenaria tetraqetra
+106,Arenaria tetraqetra,39,25,Leontodon,2,0.88,adult,vegetative,NA,NA,NA,Leontodon,106.Arenaria tetraqetra
+106,Arenaria tetraqetra,39,25,Leontodon,3,0.88,adult,vegetative,NA,NA,NA,Leontodon,106.Arenaria tetraqetra
+106,Arenaria tetraqetra,39,25,Leontodon,4,0.88,adult,vegetative,NA,NA,NA,Leontodon,106.Arenaria tetraqetra
+106,Arenaria tetraqetra,39,25,Leontodon,5,0.88,adult,vegetative,NA,NA,NA,Leontodon,106.Arenaria tetraqetra
+106,Arenaria tetraqetra,39,25,Leontodon,6,0.88,adult,vegetative,NA,NA,NA,Leontodon,106.Arenaria tetraqetra
+106,Arenaria tetraqetra,39,25,Leontodon,7,0.88,adult,budding,1,NA,NA,Leontodon,106.Arenaria tetraqetra
+106,Arenaria tetraqetra,39,25,Leontodon,8,0.88,adult,budding,1,NA,NA,Leontodon,106.Arenaria tetraqetra
+110,Open,NA,NA,Viola,1,1,adult,vegetative,NA,NA,NA,Viola,110.Open
+110,Open,NA,NA,Viola,2,1,adult,vegetative,NA,NA,NA,Viola,110.Open
+110,Open,NA,NA,Viola,3,1,adult,fruiting,NA,NA,1,Viola,110.Open
+110,Open,NA,NA,Viola,4,1,adult,fruiting,NA,NA,1,Viola,110.Open
+111,Hormathophylla,34,29,Ranunculus demisus,1,3,adult,vegetative,NA,NA,NA,Ranunculus,111.Hormathophylla
+112,Arenaria tetraqetra,27,27,Hormathophylla,1,5,juvenile,NA,NA,NA,NA,Hormathophylla,112.Arenaria tetraqetra
+112,Arenaria tetraqetra,27,27,Jasione,1,1,adult,vegetative,NA,NA,NA,Jasione,112.Arenaria tetraqetra
+112,Arenaria tetraqetra,27,27,Jasione,2,1,adult,budding,6,1,NA,Jasione,112.Arenaria tetraqetra
+112,Arenaria tetraqetra,27,27,Jasione,3,1,adult,budding,1,NA,NA,Jasione,112.Arenaria tetraqetra
+112,Arenaria tetraqetra,27,27,Jasione,4,1,adult,budding,5,NA,NA,Jasione,112.Arenaria tetraqetra
+112,Arenaria tetraqetra,27,27,Jasione,5,1,adult,budding,2,1,NA,Jasione,112.Arenaria tetraqetra
+112,Arenaria tetraqetra,27,27,Nevadensia purpúrea,1,1,adult,vegetative,NA,NA,NA,Nevadensia purpurea,112.Arenaria tetraqetra
+113,Open,NA,NA,Nevadensia purpúrea,1,0.75,adult,vegetative,NA,NA,NA,Nevadensia purpurea,113.Open
+113,Open,NA,NA,Nevadensia purpúrea,2,0.75,adult,vegetative,NA,NA,NA,Nevadensia purpurea,113.Open
+113,Open,NA,NA,Nevadensia purpúrea,3,0.75,adult,vegetative,NA,NA,NA,Nevadensia purpurea,113.Open
+113,Open,NA,NA,Nevadensia purpúrea,4,0.75,adult,fruiting,NA,NA,3,Nevadensia purpurea,113.Open
+114,Hormathophylla,30,29,Nevadensia purpúrea,1,2,adult,fruiting,NA,NA,2,Nevadensia purpurea,114.Hormathophylla
+115,Arenaria tetraqetra,25,26,Genciana,1,0.4,adult,vegetative,NA,NA,NA,Gentiana,115.Arenaria tetraqetra
+115,Arenaria tetraqetra,25,26,Genciana,2,0.4,adult,vegetative,NA,NA,NA,Gentiana,115.Arenaria tetraqetra
+115,Arenaria tetraqetra,25,26,Genciana,3,0.4,adult,vegetative,NA,NA,NA,Gentiana,115.Arenaria tetraqetra
+115,Arenaria tetraqetra,25,26,Genciana,4,0.4,adult,vegetative,NA,NA,NA,Gentiana,115.Arenaria tetraqetra
+115,Arenaria tetraqetra,25,26,Genciana,5,0.4,adult,vegetative,NA,NA,NA,Gentiana,115.Arenaria tetraqetra
+115,Arenaria tetraqetra,25,26,Genciana,6,0.4,adult,vegetative,NA,NA,NA,Gentiana,115.Arenaria tetraqetra
+115,Arenaria tetraqetra,25,26,Genciana,7,0.4,adult,vegetative,NA,NA,NA,Gentiana,115.Arenaria tetraqetra
+115,Arenaria tetraqetra,25,26,Genciana,8,0.4,adult,vegetative,NA,NA,NA,Gentiana,115.Arenaria tetraqetra
+115,Arenaria tetraqetra,25,26,Genciana,9,0.4,adult,vegetative,NA,NA,NA,Gentiana,115.Arenaria tetraqetra
+115,Arenaria tetraqetra,25,26,Genciana,10,0.4,adult,vegetative,NA,NA,NA,Gentiana,115.Arenaria tetraqetra
+115,Arenaria tetraqetra,25,26,Genciana,11,0.4,adult,vegetative,NA,NA,NA,Gentiana,115.Arenaria tetraqetra
+115,Arenaria tetraqetra,25,26,Genciana,12,0.4,adult,vegetative,NA,NA,NA,Gentiana,115.Arenaria tetraqetra
+115,Arenaria tetraqetra,25,26,Leontodon,1,1.5,adult,vegetative,NA,NA,NA,Leontodon,115.Arenaria tetraqetra
+115,Arenaria tetraqetra,25,26,Leontodon,2,1.5,adult,budding,1,NA,NA,Leontodon,115.Arenaria tetraqetra
+116,Open,NA,NA,Eryngium,1,2,adult,budding,2,NA,NA,Eryngium,116.Open
+116,Open,NA,NA,Nevadensia purpúrea,1,1.5,adult,fruiting,NA,NA,14,Nevadensia purpurea,116.Open
+116,Open,NA,NA,Nevadensia purpúrea,2,1.5,juvenile,NA,NA,NA,NA,Nevadensia purpurea,116.Open
+117,Hormathophylla,47,25,Avenella flexuosa,1,1,adult,fruiting,NA,NA,1,Avenella,117.Hormathophylla
+117,Hormathophylla,47,25,Avenella flexuosa,2,1,adult,vegetative,NA,NA,NA,Avenella,117.Hormathophylla
+117,Hormathophylla,47,25,Avenella flexuosa,3,1,adult,vegetative,NA,NA,NA,Avenella,117.Hormathophylla
+117,Hormathophylla,47,25,Avenella flexuosa,4,1,adult,vegetative,NA,NA,NA,Avenella,117.Hormathophylla
+117,Hormathophylla,47,25,Avenella flexuosa,5,1,adult,vegetative,NA,NA,NA,Avenella,117.Hormathophylla
+118,Arenaria tetraqetra,30,28,Eryngium,1,1,adult,vegetative,NA,NA,NA,Eryngium,118.Arenaria tetraqetra
+118,Arenaria tetraqetra,30,28,Eryngium,2,1,juvenile,NA,NA,NA,NA,Eryngium,118.Arenaria tetraqetra
+118,Arenaria tetraqetra,30,28,Jasione,1,2,adult,vegetative,NA,NA,NA,Jasione,118.Arenaria tetraqetra
+118,Arenaria tetraqetra,30,28,Avenella flexuosa,1,0.625,adult,vegetative,NA,NA,NA,Avenella,118.Arenaria tetraqetra
+118,Arenaria tetraqetra,30,28,Avenella flexuosa,2,0.625,adult,vegetative,NA,NA,NA,Avenella,118.Arenaria tetraqetra
+118,Arenaria tetraqetra,30,28,Avenella flexuosa,3,0.625,adult,vegetative,NA,NA,NA,Avenella,118.Arenaria tetraqetra
+118,Arenaria tetraqetra,30,28,Avenella flexuosa,4,0.625,adult,vegetative,NA,NA,NA,Avenella,118.Arenaria tetraqetra
+118,Arenaria tetraqetra,30,28,Avenella flexuosa,5,0.625,adult,vegetative,NA,NA,NA,Avenella,118.Arenaria tetraqetra
+118,Arenaria tetraqetra,30,28,Avenella flexuosa,6,0.625,adult,vegetative,NA,NA,NA,Avenella,118.Arenaria tetraqetra
+118,Arenaria tetraqetra,30,28,Avenella flexuosa,7,0.625,adult,vegetative,NA,NA,NA,Avenella,118.Arenaria tetraqetra
+118,Arenaria tetraqetra,30,28,Avenella flexuosa,8,0.625,adult,fruiting,NA,NA,1,Avenella,118.Arenaria tetraqetra
+118,Arenaria tetraqetra,30,28,Erigeron,1,2,adult,vegetative,NA,NA,NA,Erigeron,118.Arenaria tetraqetra
+119,Open,NA,NA,Nevadensia purpúrea,1,1,adult,vegetative,NA,NA,NA,Nevadensia purpurea,119.Open
+119,Open,NA,NA,Nevadensia purpúrea,2,1,adult,vegetative,NA,NA,NA,Nevadensia purpurea,119.Open
+119,Open,NA,NA,Nevadensia purpúrea,3,1,adult,vegetative,NA,NA,NA,Nevadensia purpurea,119.Open
+119,Open,NA,NA,Nevadensia purpúrea,4,1,adult,fruiting,NA,NA,1,Nevadensia purpurea,119.Open
+119,Open,NA,NA,Nevadensia purpúrea,5,1,adult,fruiting,NA,NA,3,Nevadensia purpurea,119.Open
+119,Open,NA,NA,Genciana,1,1,adult,vegetative,NA,NA,NA,Gentiana,119.Open
+120,Hormathophylla,34,27,Nevadensia purpúrea,1,2,adult,vegetative,NA,NA,NA,Nevadensia purpurea,120.Hormathophylla
+121,Arenaria tetraqetra,32,22,Nevadensia purpúrea,1,1,adult,fruiting,NA,NA,1,Nevadensia purpurea,121.Arenaria tetraqetra
+121,Arenaria tetraqetra,32,22,Lotus,1,0.7,adult,vegetative,NA,NA,NA,Lotus,121.Arenaria tetraqetra
+121,Arenaria tetraqetra,32,22,Lotus,2,0.7,adult,vegetative,NA,NA,NA,Lotus,121.Arenaria tetraqetra
+121,Arenaria tetraqetra,32,22,Lotus,3,0.7,adult,vegetative,NA,NA,NA,Lotus,121.Arenaria tetraqetra
+121,Arenaria tetraqetra,32,22,Lotus,4,0.7,adult,vegetative,NA,NA,NA,Lotus,121.Arenaria tetraqetra
+121,Arenaria tetraqetra,32,22,Lotus,5,0.7,adult,vegetative,NA,NA,NA,Lotus,121.Arenaria tetraqetra
+121,Arenaria tetraqetra,32,22,Lotus,6,0.7,adult,vegetative,NA,NA,NA,Lotus,121.Arenaria tetraqetra
+121,Arenaria tetraqetra,32,22,Lotus,7,0.7,adult,vegetative,NA,NA,NA,Lotus,121.Arenaria tetraqetra
+121,Arenaria tetraqetra,32,22,Lotus,8,0.7,adult,vegetative,NA,NA,NA,Lotus,121.Arenaria tetraqetra
+121,Arenaria tetraqetra,32,22,Lotus,9,0.7,adult,vegetative,NA,NA,NA,Lotus,121.Arenaria tetraqetra
+121,Arenaria tetraqetra,32,22,Lotus,10,0.7,adult,vegetative,NA,NA,NA,Lotus,121.Arenaria tetraqetra
+121,Arenaria tetraqetra,32,22,Lotus,11,0.7,adult,vegetative,NA,NA,NA,Lotus,121.Arenaria tetraqetra
+121,Arenaria tetraqetra,32,22,Lotus,12,0.7,adult,vegetative,NA,NA,NA,Lotus,121.Arenaria tetraqetra
+121,Arenaria tetraqetra,32,22,Lotus,13,0.7,adult,budding,1,NA,NA,Lotus,121.Arenaria tetraqetra
+123,Hormathophylla,67,50,Festuca clementei,1,1.5,adult,vegetative,NA,NA,NA,Festuca,123.Hormathophylla
+123,Hormathophylla,67,50,Festuca clementei,2,1.5,adult,vegetative,NA,NA,NA,Festuca,123.Hormathophylla
+124,Arenaria tetraqetra,32,21,Jasione,1,1.3,adult,vegetative,NA,NA,NA,Jasione,124.Arenaria tetraqetra
+124,Arenaria tetraqetra,32,21,Jasione,2,1.3,adult,vegetative,NA,NA,NA,Jasione,124.Arenaria tetraqetra
+124,Arenaria tetraqetra,32,21,Jasione,3,1.3,adult,vegetative,NA,NA,NA,Jasione,124.Arenaria tetraqetra
+124,Arenaria tetraqetra,32,21,Jasione,4,1.3,adult,vegetative,NA,NA,NA,Jasione,124.Arenaria tetraqetra
+124,Arenaria tetraqetra,32,21,Jasione,5,1.3,adult,flowering,NA,1,NA,Jasione,124.Arenaria tetraqetra
+124,Arenaria tetraqetra,32,21,Jasione,6,1.3,adult,fruiting,NA,NA,1,Jasione,124.Arenaria tetraqetra
+124,Arenaria tetraqetra,32,21,Nevadensia purpúrea,1,0.4,adult,vegetative,NA,NA,NA,Nevadensia purpurea,124.Arenaria tetraqetra
+124,Arenaria tetraqetra,32,21,Nevadensia purpúrea,2,0.4,adult,vegetative,NA,NA,NA,Nevadensia purpurea,124.Arenaria tetraqetra
+124,Arenaria tetraqetra,32,21,Nevadensia purpúrea,3,0.4,adult,vegetative,NA,NA,NA,Nevadensia purpurea,124.Arenaria tetraqetra
+124,Arenaria tetraqetra,32,21,Nevadensia purpúrea,4,0.4,adult,vegetative,NA,NA,NA,Nevadensia purpurea,124.Arenaria tetraqetra
+124,Arenaria tetraqetra,32,21,Nevadensia purpúrea,5,0.4,adult,vegetative,NA,NA,NA,Nevadensia purpurea,124.Arenaria tetraqetra
+124,Arenaria tetraqetra,32,21,Vaccinium oliginosum,1,1,adult,vegetative,NA,NA,NA,Vaccinium,124.Arenaria tetraqetra
+124,Arenaria tetraqetra,32,21,Vaccinium oliginosum,2,1,adult,vegetative,NA,NA,NA,Vaccinium,124.Arenaria tetraqetra
+124,Arenaria tetraqetra,32,21,Vaccinium oliginosum,3,1,adult,vegetative,NA,NA,NA,Vaccinium,124.Arenaria tetraqetra
+125,Open,NA,NA,Vaccinium oliginosum,1,2,adult,vegetative,NA,NA,NA,Vaccinium,125.Open
+126,Hormathophylla,55,36,Viola,1,1.3,adult,vegetative,NA,NA,NA,Viola,126.Hormathophylla
+126,Hormathophylla,55,36,Viola,2,1.3,adult,vegetative,NA,NA,NA,Viola,126.Hormathophylla
+126,Hormathophylla,55,36,Viola,3,1.3,adult,fruiting,NA,NA,1,Viola,126.Hormathophylla
+126,Hormathophylla,55,36,Viola,4,1.3,adult,fruiting,NA,NA,3,Viola,126.Hormathophylla
+126,Hormathophylla,55,36,Viola,5,1.3,adult,fruiting,NA,NA,3,Viola,126.Hormathophylla
+126,Hormathophylla,55,36,Viola,6,1.3,adult,fruiting,NA,NA,1,Viola,126.Hormathophylla
+126,Hormathophylla,55,36,Eryngium,1,3,adult,budding,1,NA,NA,Eryngium,126.Hormathophylla
+126,Hormathophylla,55,36,Lotus,1,10,adult,vegetative,NA,NA,NA,Lotus,126.Hormathophylla
+127,Arenaria tetraqetra,36,19,Lotus,1,0.45,adult,flowering,NA,2,NA,Lotus,127.Arenaria tetraqetra
+127,Arenaria tetraqetra,36,19,Lotus,2,0.45,adult,flowering,NA,2,NA,Lotus,127.Arenaria tetraqetra
+127,Arenaria tetraqetra,36,19,Lotus,3,0.45,adult,flowering,NA,1,NA,Lotus,127.Arenaria tetraqetra
+127,Arenaria tetraqetra,36,19,Lotus,4,0.45,adult,flowering,NA,3,NA,Lotus,127.Arenaria tetraqetra
+127,Arenaria tetraqetra,36,19,Lotus,5,0.45,adult,flowering,NA,2,NA,Lotus,127.Arenaria tetraqetra
+127,Arenaria tetraqetra,36,19,Lotus,6,0.45,adult,flowering,NA,1,NA,Lotus,127.Arenaria tetraqetra
+127,Arenaria tetraqetra,36,19,Lotus,7,0.45,adult,flowering,NA,1,NA,Lotus,127.Arenaria tetraqetra
+127,Arenaria tetraqetra,36,19,Lotus,8,0.45,adult,vegetative,NA,NA,NA,Lotus,127.Arenaria tetraqetra
+127,Arenaria tetraqetra,36,19,Lotus,9,0.45,adult,vegetative,NA,NA,NA,Lotus,127.Arenaria tetraqetra
+127,Arenaria tetraqetra,36,19,Lotus,10,0.45,adult,vegetative,NA,NA,NA,Lotus,127.Arenaria tetraqetra
+127,Arenaria tetraqetra,36,19,Lotus,11,0.45,adult,vegetative,NA,NA,NA,Lotus,127.Arenaria tetraqetra
+127,Arenaria tetraqetra,36,19,Lotus,12,0.45,adult,vegetative,NA,NA,NA,Lotus,127.Arenaria tetraqetra
+127,Arenaria tetraqetra,36,19,Lotus,13,0.45,adult,vegetative,NA,NA,NA,Lotus,127.Arenaria tetraqetra
+127,Arenaria tetraqetra,36,19,Lotus,14,0.45,adult,vegetative,NA,NA,NA,Lotus,127.Arenaria tetraqetra
+127,Arenaria tetraqetra,36,19,Lotus,15,0.45,adult,vegetative,NA,NA,NA,Lotus,127.Arenaria tetraqetra
+127,Arenaria tetraqetra,36,19,Lotus,16,0.45,adult,vegetative,NA,NA,NA,Lotus,127.Arenaria tetraqetra
+127,Arenaria tetraqetra,36,19,Lotus,17,0.45,adult,vegetative,NA,NA,NA,Lotus,127.Arenaria tetraqetra
+127,Arenaria tetraqetra,36,19,Lotus,18,0.45,adult,vegetative,NA,NA,NA,Lotus,127.Arenaria tetraqetra
+127,Arenaria tetraqetra,36,19,Lotus,19,0.45,adult,vegetative,NA,NA,NA,Lotus,127.Arenaria tetraqetra
+127,Arenaria tetraqetra,36,19,Lotus,20,0.45,adult,vegetative,NA,NA,NA,Lotus,127.Arenaria tetraqetra
+127,Arenaria tetraqetra,36,19,Lotus,21,0.45,adult,vegetative,NA,NA,NA,Lotus,127.Arenaria tetraqetra
+127,Arenaria tetraqetra,36,19,Lotus,22,0.45,adult,vegetative,NA,NA,NA,Lotus,127.Arenaria tetraqetra
+127,Arenaria tetraqetra,36,19,Lotus,23,0.45,adult,vegetative,NA,NA,NA,Lotus,127.Arenaria tetraqetra
+127,Arenaria tetraqetra,36,19,Lotus,24,0.45,adult,vegetative,NA,NA,NA,Lotus,127.Arenaria tetraqetra
+127,Arenaria tetraqetra,36,19,Lotus,25,0.45,adult,vegetative,NA,NA,NA,Lotus,127.Arenaria tetraqetra
+127,Arenaria tetraqetra,36,19,Lotus,26,0.45,adult,vegetative,NA,NA,NA,Lotus,127.Arenaria tetraqetra
+127,Arenaria tetraqetra,36,19,Lotus,27,0.45,adult,vegetative,NA,NA,NA,Lotus,127.Arenaria tetraqetra
+127,Arenaria tetraqetra,36,19,Lotus,28,0.45,adult,vegetative,NA,NA,NA,Lotus,127.Arenaria tetraqetra
+127,Arenaria tetraqetra,36,19,Lotus,29,0.45,adult,vegetative,NA,NA,NA,Lotus,127.Arenaria tetraqetra
+127,Arenaria tetraqetra,36,19,Lotus,30,0.45,adult,vegetative,NA,NA,NA,Lotus,127.Arenaria tetraqetra
+127,Arenaria tetraqetra,36,19,Lotus,31,0.45,adult,vegetative,NA,NA,NA,Lotus,127.Arenaria tetraqetra
+127,Arenaria tetraqetra,36,19,Lotus,32,0.45,adult,vegetative,NA,NA,NA,Lotus,127.Arenaria tetraqetra
+127,Arenaria tetraqetra,36,19,Lotus,33,0.45,adult,vegetative,NA,NA,NA,Lotus,127.Arenaria tetraqetra
+127,Arenaria tetraqetra,36,19,Viola,1,1,adult,vegetative,NA,NA,NA,Viola,127.Arenaria tetraqetra
+127,Arenaria tetraqetra,36,19,Nevadensia purpúrea,1,1,adult,vegetative,NA,NA,NA,Nevadensia purpurea,127.Arenaria tetraqetra
+127,Arenaria tetraqetra,36,19,Nevadensia purpúrea,2,1,adult,fruiting,NA,NA,3,Nevadensia purpurea,127.Arenaria tetraqetra
+127,Arenaria tetraqetra,36,19,Jasione,1,3,adult,flowering,NA,3,NA,Jasione,127.Arenaria tetraqetra
+128,Open,NA,NA,Nevadensia purpúrea,1,1,adult,vegetative,NA,NA,NA,Nevadensia purpurea,128.Open
+129,Hormathophylla,29,21,Lotus,1,2,adult,vegetative,NA,NA,NA,Lotus,129.Hormathophylla
+129,Hormathophylla,29,21,Lotus,2,2,adult,vegetative,NA,NA,NA,Lotus,129.Hormathophylla
+129,Hormathophylla,29,21,Lotus,3,2,adult,vegetative,NA,NA,NA,Lotus,129.Hormathophylla
+129,Hormathophylla,29,21,Lotus,4,2,adult,vegetative,NA,NA,NA,Lotus,129.Hormathophylla
+129,Hormathophylla,29,21,Lotus,5,2,adult,vegetative,NA,NA,NA,Lotus,129.Hormathophylla
+130,Arenaria tetraqetra,25,23,Nevadensia purpúrea,1,1,adult,vegetative,NA,NA,NA,Nevadensia purpurea,130.Arenaria tetraqetra
+130,Arenaria tetraqetra,25,23,Nevadensia purpúrea,2,1,adult,vegetative,NA,NA,NA,Nevadensia purpurea,130.Arenaria tetraqetra
+130,Arenaria tetraqetra,25,23,Nevadensia purpúrea,3,1,adult,vegetative,NA,NA,NA,Nevadensia purpurea,130.Arenaria tetraqetra
+130,Arenaria tetraqetra,25,23,Nevadensia purpúrea,4,1,adult,fruiting,NA,NA,2,Nevadensia purpurea,130.Arenaria tetraqetra
+130,Arenaria tetraqetra,25,23,Jasione,1,0.9,adult,vegetative,NA,NA,NA,Jasione,130.Arenaria tetraqetra
+130,Arenaria tetraqetra,25,23,Jasione,2,0.9,adult,budding,1,NA,NA,Jasione,130.Arenaria tetraqetra
+130,Arenaria tetraqetra,25,23,Jasione,3,0.9,adult,budding,4,NA,NA,Jasione,130.Arenaria tetraqetra
+130,Arenaria tetraqetra,25,23,Jasione,4,0.9,adult,budding,2,NA,NA,Jasione,130.Arenaria tetraqetra
+130,Arenaria tetraqetra,25,23,Jasione,5,0.9,adult,budding,2,NA,NA,Jasione,130.Arenaria tetraqetra
+130,Arenaria tetraqetra,25,23,Jasione,6,0.9,adult,fruiting,NA,NA,1,Jasione,130.Arenaria tetraqetra
+130,Arenaria tetraqetra,25,23,Jasione,7,0.9,adult,fruiting,NA,NA,4,Jasione,130.Arenaria tetraqetra
+130,Arenaria tetraqetra,25,23,Eryngium,1,1,juvenile,NA,NA,NA,NA,Eryngium,130.Arenaria tetraqetra
+131,Open,NA,NA,Nevadensia purpúrea,1,1,adult,vegetative,NA,NA,NA,Nevadensia purpurea,131.Open
+132,Hormathophylla,107,90,Lotus,1,0.9,adult,vegetative,NA,NA,NA,Lotus,132.Hormathophylla
+132,Hormathophylla,107,90,Lotus,2,0.9,adult,vegetative,NA,NA,NA,Lotus,132.Hormathophylla
+132,Hormathophylla,107,90,Lotus,3,0.9,adult,vegetative,NA,NA,NA,Lotus,132.Hormathophylla
+132,Hormathophylla,107,90,Lotus,4,0.9,adult,vegetative,NA,NA,NA,Lotus,132.Hormathophylla
+132,Hormathophylla,107,90,Lotus,5,0.9,adult,vegetative,NA,NA,NA,Lotus,132.Hormathophylla
+132,Hormathophylla,107,90,Lotus,6,0.9,adult,vegetative,NA,NA,NA,Lotus,132.Hormathophylla
+132,Hormathophylla,107,90,Lotus,7,0.9,adult,vegetative,NA,NA,NA,Lotus,132.Hormathophylla
+132,Hormathophylla,107,90,Jasione,1,5,adult,flowering,1,3,NA,Jasione,132.Hormathophylla
+132,Hormathophylla,107,90,Sideritis,1,6,adult,flowering,NA,8,NA,Sideritis,132.Hormathophylla
+133,Arenaria tetraqetra,29,21,Sideritis,1,1,seedling,NA,NA,NA,NA,Sideritis,133.Arenaria tetraqetra
+134,Open,NA,NA,Leontodon,1,0.5,adult,vegetative,NA,NA,NA,Leontodon,134.Open
+134,Open,NA,NA,Leontodon,2,0.5,adult,vegetative,NA,NA,NA,Leontodon,134.Open
+134,Open,NA,NA,Leontodon,3,0.5,adult,vegetative,NA,NA,NA,Leontodon,134.Open
+134,Open,NA,NA,Leontodon,4,0.5,adult,vegetative,NA,NA,NA,Leontodon,134.Open
+134,Open,NA,NA,Leontodon,5,0.5,adult,vegetative,NA,NA,NA,Leontodon,134.Open
+134,Open,NA,NA,Leontodon,6,0.5,adult,vegetative,NA,NA,NA,Leontodon,134.Open
+134,Open,NA,NA,Leontodon,7,0.5,adult,vegetative,NA,NA,NA,Leontodon,134.Open
+134,Open,NA,NA,Leontodon,8,0.5,adult,vegetative,NA,NA,NA,Leontodon,134.Open
+134,Open,NA,NA,Leontodon,9,0.5,adult,vegetative,NA,NA,NA,Leontodon,134.Open
+134,Open,NA,NA,Hormathophylla,1,0.5,seedling,NA,NA,NA,NA,Hormathophylla,134.Open
+135,Hormathophylla,41,32,Cardus c.,1,10,adult,vegetative,NA,NA,NA,Carduus,135.Hormathophylla
+136,Arenaria tetraqetra,28,20,Nevadensia purpúrea,1,1,adult,fruiting,NA,NA,3,Nevadensia purpurea,136.Arenaria tetraqetra
+136,Arenaria tetraqetra,28,20,Nevadensia purpúrea,2,1,adult,fruiting,NA,NA,8,Nevadensia purpurea,136.Arenaria tetraqetra
+136,Arenaria tetraqetra,28,20,Nevadensia purpúrea,3,1,adult,fruiting,NA,NA,3,Nevadensia purpurea,136.Arenaria tetraqetra
+136,Arenaria tetraqetra,28,20,Nevadensia purpúrea,4,1,adult,fruiting,NA,NA,3,Nevadensia purpurea,136.Arenaria tetraqetra
+136,Arenaria tetraqetra,28,20,Nevadensia purpúrea,5,1,adult,fruiting,NA,NA,3,Nevadensia purpurea,136.Arenaria tetraqetra
+136,Arenaria tetraqetra,28,20,Galium,1,2,adult,fruiting,NA,NA,12,Galium,136.Arenaria tetraqetra
+139,Arenaria tetraqetra,31,23,Nevadensia purpúrea,1,0.75,adult,vegetative,NA,NA,NA,Nevadensia purpurea,139.Arenaria tetraqetra
+139,Arenaria tetraqetra,31,23,Nevadensia purpúrea,2,0.75,adult,vegetative,NA,NA,NA,Nevadensia purpurea,139.Arenaria tetraqetra
+139,Arenaria tetraqetra,31,23,Nevadensia purpúrea,3,0.75,adult,fruiting,NA,NA,1,Nevadensia purpurea,139.Arenaria tetraqetra
+139,Arenaria tetraqetra,31,23,Nevadensia purpúrea,4,0.75,adult,fruiting,NA,NA,3,Nevadensia purpurea,139.Arenaria tetraqetra
+139,Arenaria tetraqetra,31,23,Hormathophylla,1,5,juvenile,NA,NA,NA,NA,Hormathophylla,139.Arenaria tetraqetra
+139,Arenaria tetraqetra,31,23,Jasione,1,1.5,adult,vegetative,NA,NA,NA,Jasione,139.Arenaria tetraqetra
+139,Arenaria tetraqetra,31,23,Jasione,2,1.5,adult,fruiting,NA,NA,2,Jasione,139.Arenaria tetraqetra
+140,Open,NA,NA,Nevadensia purpúrea,1,3,adult,fruiting,NA,NA,9,Nevadensia purpurea,140.Open
+142,Arenaria tetraqetra,34,22,Genciana,1,0.2,adult,vegetative,NA,NA,NA,Gentiana,142.Arenaria tetraqetra
+142,Arenaria tetraqetra,34,22,Genciana,2,0.2,adult,vegetative,NA,NA,NA,Gentiana,142.Arenaria tetraqetra
+142,Arenaria tetraqetra,34,22,Genciana,3,0.2,adult,vegetative,NA,NA,NA,Gentiana,142.Arenaria tetraqetra
+142,Arenaria tetraqetra,34,22,Genciana,4,0.2,adult,vegetative,NA,NA,NA,Gentiana,142.Arenaria tetraqetra
+142,Arenaria tetraqetra,34,22,Genciana,5,0.2,adult,vegetative,NA,NA,NA,Gentiana,142.Arenaria tetraqetra
+142,Arenaria tetraqetra,34,22,Genciana,6,0.2,adult,vegetative,NA,NA,NA,Gentiana,142.Arenaria tetraqetra
+142,Arenaria tetraqetra,34,22,Genciana,7,0.2,adult,vegetative,NA,NA,NA,Gentiana,142.Arenaria tetraqetra
+142,Arenaria tetraqetra,34,22,Genciana,8,0.2,adult,vegetative,NA,NA,NA,Gentiana,142.Arenaria tetraqetra
+142,Arenaria tetraqetra,34,22,Genciana,9,0.2,adult,vegetative,NA,NA,NA,Gentiana,142.Arenaria tetraqetra
+142,Arenaria tetraqetra,34,22,Genciana,10,0.2,adult,vegetative,NA,NA,NA,Gentiana,142.Arenaria tetraqetra
+142,Arenaria tetraqetra,34,22,Genciana,11,0.2,adult,vegetative,NA,NA,NA,Gentiana,142.Arenaria tetraqetra
+142,Arenaria tetraqetra,34,22,Genciana,12,0.2,adult,vegetative,NA,NA,NA,Gentiana,142.Arenaria tetraqetra
+142,Arenaria tetraqetra,34,22,Genciana,13,0.2,adult,vegetative,NA,NA,NA,Gentiana,142.Arenaria tetraqetra
+142,Arenaria tetraqetra,34,22,Genciana,14,0.2,adult,vegetative,NA,NA,NA,Gentiana,142.Arenaria tetraqetra
+142,Arenaria tetraqetra,34,22,Genciana,15,0.2,adult,vegetative,NA,NA,NA,Gentiana,142.Arenaria tetraqetra
+142,Arenaria tetraqetra,34,22,Genciana,16,0.2,adult,vegetative,NA,NA,NA,Gentiana,142.Arenaria tetraqetra
+142,Arenaria tetraqetra,34,22,Genciana,17,0.2,adult,vegetative,NA,NA,NA,Gentiana,142.Arenaria tetraqetra
+142,Arenaria tetraqetra,34,22,Genciana,18,0.2,adult,vegetative,NA,NA,NA,Gentiana,142.Arenaria tetraqetra
+142,Arenaria tetraqetra,34,22,Genciana,19,0.2,adult,vegetative,NA,NA,NA,Gentiana,142.Arenaria tetraqetra
+142,Arenaria tetraqetra,34,22,Genciana,20,0.2,adult,vegetative,NA,NA,NA,Gentiana,142.Arenaria tetraqetra
+142,Arenaria tetraqetra,34,22,Genciana,21,0.2,adult,vegetative,NA,NA,NA,Gentiana,142.Arenaria tetraqetra
+142,Arenaria tetraqetra,34,22,Genciana,22,0.2,adult,vegetative,NA,NA,NA,Gentiana,142.Arenaria tetraqetra
+142,Arenaria tetraqetra,34,22,Genciana,23,0.2,adult,vegetative,NA,NA,NA,Gentiana,142.Arenaria tetraqetra
+142,Arenaria tetraqetra,34,22,Genciana,24,0.2,adult,vegetative,NA,NA,NA,Gentiana,142.Arenaria tetraqetra
+142,Arenaria tetraqetra,34,22,Genciana,25,0.2,adult,vegetative,NA,NA,NA,Gentiana,142.Arenaria tetraqetra
+142,Arenaria tetraqetra,34,22,Genciana,26,0.2,adult,vegetative,NA,NA,NA,Gentiana,142.Arenaria tetraqetra
+142,Arenaria tetraqetra,34,22,Lotus,1,0.3,adult,flowering,NA,14,NA,Lotus,142.Arenaria tetraqetra
+142,Arenaria tetraqetra,34,22,Lotus,2,0.3,adult,budding,3,NA,NA,Lotus,142.Arenaria tetraqetra
+142,Arenaria tetraqetra,34,22,Lotus,3,0.3,adult,flowering,NA,1,NA,Lotus,142.Arenaria tetraqetra
+142,Arenaria tetraqetra,34,22,Lotus,4,0.3,adult,flowering,NA,2,NA,Lotus,142.Arenaria tetraqetra
+142,Arenaria tetraqetra,34,22,Lotus,5,0.3,adult,budding,1,NA,NA,Lotus,142.Arenaria tetraqetra
+142,Arenaria tetraqetra,34,22,Lotus,6,0.3,adult,flowering,NA,1,NA,Lotus,142.Arenaria tetraqetra
+142,Arenaria tetraqetra,34,22,Lotus,7,0.3,adult,flowering,NA,2,NA,Lotus,142.Arenaria tetraqetra
+142,Arenaria tetraqetra,34,22,Lotus,8,0.3,adult,flowering,NA,3,NA,Lotus,142.Arenaria tetraqetra
+142,Arenaria tetraqetra,34,22,Lotus,9,0.3,adult,flowering,NA,4,NA,Lotus,142.Arenaria tetraqetra
+142,Arenaria tetraqetra,34,22,Lotus,10,0.3,adult,budding,1,NA,NA,Lotus,142.Arenaria tetraqetra
+142,Arenaria tetraqetra,34,22,Lotus,11,0.3,adult,budding,2,NA,NA,Lotus,142.Arenaria tetraqetra
+142,Arenaria tetraqetra,34,22,Lotus,12,0.3,adult,flowering,NA,1,NA,Lotus,142.Arenaria tetraqetra
+142,Arenaria tetraqetra,34,22,Lotus,13,0.3,adult,flowering,NA,2,NA,Lotus,142.Arenaria tetraqetra
+142,Arenaria tetraqetra,34,22,Lotus,14,0.3,adult,flowering,NA,1,NA,Lotus,142.Arenaria tetraqetra
+142,Arenaria tetraqetra,34,22,Lotus,15,0.3,adult,flowering,NA,1,NA,Lotus,142.Arenaria tetraqetra
+142,Arenaria tetraqetra,34,22,Lotus,16,0.3,adult,flowering,NA,1,NA,Lotus,142.Arenaria tetraqetra
+142,Arenaria tetraqetra,34,22,Lotus,17,0.3,adult,flowering,NA,1,NA,Lotus,142.Arenaria tetraqetra
+142,Arenaria tetraqetra,34,22,Lotus,18,0.3,adult,flowering,NA,1,NA,Lotus,142.Arenaria tetraqetra
+142,Arenaria tetraqetra,34,22,Lotus,19,0.3,adult,flowering,NA,1,NA,Lotus,142.Arenaria tetraqetra
+142,Arenaria tetraqetra,34,22,Lotus,20,0.3,adult,vegetative,NA,NA,NA,Lotus,142.Arenaria tetraqetra
+142,Arenaria tetraqetra,34,22,Lotus,21,0.3,adult,vegetative,NA,NA,NA,Lotus,142.Arenaria tetraqetra
+142,Arenaria tetraqetra,34,22,Lotus,22,0.3,adult,vegetative,NA,NA,NA,Lotus,142.Arenaria tetraqetra
+142,Arenaria tetraqetra,34,22,Lotus,23,0.3,adult,vegetative,NA,NA,NA,Lotus,142.Arenaria tetraqetra
+142,Arenaria tetraqetra,34,22,Lotus,24,0.3,adult,vegetative,NA,NA,NA,Lotus,142.Arenaria tetraqetra
+142,Arenaria tetraqetra,34,22,Lotus,25,0.3,adult,vegetative,NA,NA,NA,Lotus,142.Arenaria tetraqetra
+142,Arenaria tetraqetra,34,22,Lotus,26,0.3,adult,vegetative,NA,NA,NA,Lotus,142.Arenaria tetraqetra
+142,Arenaria tetraqetra,34,22,Lotus,27,0.3,adult,vegetative,NA,NA,NA,Lotus,142.Arenaria tetraqetra
+142,Arenaria tetraqetra,34,22,Lotus,28,0.3,adult,vegetative,NA,NA,NA,Lotus,142.Arenaria tetraqetra
+142,Arenaria tetraqetra,34,22,Lotus,29,0.3,adult,vegetative,NA,NA,NA,Lotus,142.Arenaria tetraqetra
+142,Arenaria tetraqetra,34,22,Lotus,30,0.3,adult,vegetative,NA,NA,NA,Lotus,142.Arenaria tetraqetra
+142,Arenaria tetraqetra,34,22,Lotus,31,0.3,adult,vegetative,NA,NA,NA,Lotus,142.Arenaria tetraqetra
+142,Arenaria tetraqetra,34,22,Lotus,32,0.3,adult,vegetative,NA,NA,NA,Lotus,142.Arenaria tetraqetra
+142,Arenaria tetraqetra,34,22,Lotus,33,0.3,adult,vegetative,NA,NA,NA,Lotus,142.Arenaria tetraqetra
+142,Arenaria tetraqetra,34,22,Lotus,34,0.3,adult,vegetative,NA,NA,NA,Lotus,142.Arenaria tetraqetra
+142,Arenaria tetraqetra,34,22,Lotus,35,0.3,adult,vegetative,NA,NA,NA,Lotus,142.Arenaria tetraqetra
+142,Arenaria tetraqetra,34,22,Lotus,36,0.3,adult,vegetative,NA,NA,NA,Lotus,142.Arenaria tetraqetra
+142,Arenaria tetraqetra,34,22,Lotus,37,0.3,adult,vegetative,NA,NA,NA,Lotus,142.Arenaria tetraqetra
+142,Arenaria tetraqetra,34,22,Lotus,38,0.3,adult,vegetative,NA,NA,NA,Lotus,142.Arenaria tetraqetra
+142,Arenaria tetraqetra,34,22,Lotus,39,0.3,adult,vegetative,NA,NA,NA,Lotus,142.Arenaria tetraqetra
+142,Arenaria tetraqetra,34,22,Lotus,40,0.3,adult,vegetative,NA,NA,NA,Lotus,142.Arenaria tetraqetra
+142,Arenaria tetraqetra,34,22,Lotus,41,0.3,adult,vegetative,NA,NA,NA,Lotus,142.Arenaria tetraqetra
+142,Arenaria tetraqetra,34,22,Lotus,42,0.3,adult,vegetative,NA,NA,NA,Lotus,142.Arenaria tetraqetra
+142,Arenaria tetraqetra,34,22,Lotus,43,0.3,adult,vegetative,NA,NA,NA,Lotus,142.Arenaria tetraqetra
+142,Arenaria tetraqetra,34,22,Lotus,44,0.3,adult,vegetative,NA,NA,NA,Lotus,142.Arenaria tetraqetra
+142,Arenaria tetraqetra,34,22,Jasione,1,3,adult,fruiting,NA,NA,1,Jasione,142.Arenaria tetraqetra
+143,Open,NA,NA,Nevadensia purpúrea,1,5,adult,fruiting,NA,NA,40,Nevadensia purpurea,143.Open
+145,Arenaria tetraqetra,29,19,Galium,1,1.25,adult,fruiting,NA,NA,16.7,Galium,145.Arenaria tetraqetra
+145,Arenaria tetraqetra,29,19,Galium,2,1.25,adult,fruiting,NA,NA,16.7,Galium,145.Arenaria tetraqetra
+145,Arenaria tetraqetra,29,19,Galium,3,1.25,adult,fruiting,NA,NA,16.7,Galium,145.Arenaria tetraqetra
+145,Arenaria tetraqetra,29,19,Galium,4,1.25,adult,fruiting,NA,NA,16.7,Galium,145.Arenaria tetraqetra
+145,Arenaria tetraqetra,29,19,Galium,5,1.25,adult,fruiting,NA,NA,16.7,Galium,145.Arenaria tetraqetra
+145,Arenaria tetraqetra,29,19,Galium,6,1.25,adult,fruiting,NA,NA,16.7,Galium,145.Arenaria tetraqetra
+145,Arenaria tetraqetra,29,19,Galium,7,1.25,adult,fruiting,NA,NA,16.7,Galium,145.Arenaria tetraqetra
+145,Arenaria tetraqetra,29,19,Galium,8,1.25,adult,fruiting,NA,NA,16.7,Galium,145.Arenaria tetraqetra
+145,Arenaria tetraqetra,29,19,Galium,9,1.25,adult,fruiting,NA,NA,16.7,Galium,145.Arenaria tetraqetra
+145,Arenaria tetraqetra,29,19,Galium,10,1.25,adult,fruiting,NA,NA,16.7,Galium,145.Arenaria tetraqetra
+145,Arenaria tetraqetra,29,19,Galium,11,1.25,adult,fruiting,NA,NA,16.7,Galium,145.Arenaria tetraqetra
+145,Arenaria tetraqetra,29,19,Galium,12,1.25,adult,fruiting,NA,NA,16.7,Galium,145.Arenaria tetraqetra
+146,Open,NA,NA,Nevadensia purpúrea,1,2,adult,vegetative,NA,NA,NA,Nevadensia purpurea,146.Open
+147,Hormathophylla,55,36,Silene,1,2,adult,vegetative,NA,NA,NA,Silene,147.Hormathophylla
+148,Arenaria tetraqetra,34,30,Lotus,1,0.4,adult,vegetative,NA,NA,NA,Lotus,148.Arenaria tetraqetra
+148,Arenaria tetraqetra,34,30,Lotus,2,0.4,adult,vegetative,NA,NA,NA,Lotus,148.Arenaria tetraqetra
+148,Arenaria tetraqetra,34,30,Lotus,3,0.4,adult,vegetative,NA,NA,NA,Lotus,148.Arenaria tetraqetra
+148,Arenaria tetraqetra,34,30,Lotus,4,0.4,adult,vegetative,NA,NA,NA,Lotus,148.Arenaria tetraqetra
+148,Arenaria tetraqetra,34,30,Lotus,5,0.4,adult,vegetative,NA,NA,NA,Lotus,148.Arenaria tetraqetra
+148,Arenaria tetraqetra,34,30,Lotus,6,0.4,adult,vegetative,NA,NA,NA,Lotus,148.Arenaria tetraqetra
+148,Arenaria tetraqetra,34,30,Lotus,7,0.4,adult,vegetative,NA,NA,NA,Lotus,148.Arenaria tetraqetra
+148,Arenaria tetraqetra,34,30,Lotus,8,0.4,adult,vegetative,NA,NA,NA,Lotus,148.Arenaria tetraqetra
+148,Arenaria tetraqetra,34,30,Lotus,9,0.4,adult,vegetative,NA,NA,NA,Lotus,148.Arenaria tetraqetra
+148,Arenaria tetraqetra,34,30,Lotus,10,0.4,adult,vegetative,NA,NA,NA,Lotus,148.Arenaria tetraqetra
+148,Arenaria tetraqetra,34,30,Lotus,11,0.4,adult,vegetative,NA,NA,NA,Lotus,148.Arenaria tetraqetra
+148,Arenaria tetraqetra,34,30,Lotus,12,0.4,adult,budding,1,NA,NA,Lotus,148.Arenaria tetraqetra
+148,Arenaria tetraqetra,34,30,Jasione,1,1.3,adult,flowering,1,2,NA,Jasione,148.Arenaria tetraqetra
+148,Arenaria tetraqetra,34,30,Jasione,2,1.3,adult,vegetative,NA,NA,NA,Jasione,148.Arenaria tetraqetra
+148,Arenaria tetraqetra,34,30,Jasione,3,1.3,adult,vegetative,NA,NA,NA,Jasione,148.Arenaria tetraqetra
