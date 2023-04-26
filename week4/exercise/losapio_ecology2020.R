@@ -11,9 +11,21 @@ library(igraph)
 library(lme4)
 library(picante)
 library(vegan)
+library(sdcMicro)
+library(tidyverse)
+
+
+# changed read.csv to read_csv
+diversity_3200 <- read_csv("week4/exercise/diversity_3200.csv")
+divdf <- read_csv("week4/exercise/divdf.csv")
+insect.record <- read_csv("week4/exercise/insect.record.csv")
+sndata <- read_csv("week4/exercise/sndata.csv")
+phyltree<-read_csv("week4/exercise/phyltree.phy")
+
+
 
 # import data
-diversity_3200 <- read.csv("diversity_3200.csv", head=T)
+diversity_3200 <- read.csv("week4/exercise/diversity_3200.csv", head=T)
 divdf <- read.csv("divdf.csv", head=T)
 insect.record <- read.csv("insect.record.csv", head=T)
 sndata <- read.csv("sndata.csv", head=T)
