@@ -10,7 +10,6 @@ library(emmeans)
 library(igraph)
 library(lme4)
 library(picante)
-library(vegan)
 
 # import data
 diversity_3200 <- read.csv("diversity_3200.csv", head=T)
