@@ -12,7 +12,7 @@ eml_mini <- list(dataset = list(
 )
 
 #We then need to run 
-write_eml(eml_mini, "eml_mini.xml")
+write_eml(eml_mini, "eml-mini.xml")
 eml_validate("eml-mini.xml")
 
 #We should get [1] TRUE with no erros and a min.xml record
