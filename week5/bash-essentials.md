@@ -1,5 +1,8 @@
 # Ten Bash Essentials
 
+Greg Janée \<gjanee@ucsb.edu>\
+May 2023
+
 Some essential concepts to get you started writing your first Bash
 script.
 
@@ -21,25 +24,25 @@ These steps are described in more detail below.
 
 ## 2. Fundamentals review
 
-Files in Unix and Unix-like systems are organized into hierchical
-directories identified by pathnames as in `/Users/moe/somefile.txt`.
+Files in Unix and Unix-like systems are organized into hierarchical
+directories identified by "pathnames" as in `/Users/moe/somefile.txt`.
 Here the leading `/` represents the root directory on the machine,
 `Users` is a directory within that, `moe` a directory within that
 directory, and so forth until we get to a final directory or file.
 
-At any given time you are "in" a directory.
+At any given time you are "in" a directory.  Handy commands:
 
 - `pwd`: where am I?
 - `cd new_directory`: change directories
 - `ls`: what files and subdirectories are in here?
-- `ls -F`: same, nicer formatting
+- `ls -F`: same, but nicer formatting
 
-An absolute pathname begins with `/` and identifies a directory or
+An "absolute" pathname begins with `/` and identifies a directory or
 file starting from the root directory as in the example above.  A
-relative pathname does not begin with `/` and does the same, but
+"relative" pathname does not begin with `/` and does the same, but
 relative to the current directory.
 
-Some pseudo-directory names:
+Some pseudo directory names.  Wherever you are:
 
 - `.`: current directory
 - `..`: parent directory of current directory
@@ -48,8 +51,8 @@ Some pseudo-directory names:
 So:
 
 - `/Users/shemp`: absolute pathname of Shemp's home directory
-- `../shemp`: same, relative to Moe's home directory
-- `~`: my home directory
+- `../shemp`: same, relative to `/Users/moe`
+- `~`: your home directory
 - `~shemp`: Shemp's home directory
 
 By convention Unix commands accept "options" followed by "arguments".
@@ -82,10 +85,10 @@ examples.
 
 Names defined as above are local to the current Bash session or
 script.  "Environment variables" are variables that are inherited by
-(visible to) programs and any scripts you run.  To set:
+(visible to) programs and any scripts you run.  To set, add `export`:
 
 ```
-export HOME=/Users/moe
+export DEBUG_ENABLED=1
 ```
 
 The two most important environment variables are `HOME` (your home
@@ -101,19 +104,32 @@ are confusing.  If you feel lost, join the club.
 1. Variable substitution.
 
    ```name=Moe```\
-   ```echo "Hello $name"  ==>  echo "Hello Moe"```
+   ```echo "Hello $name"```
+
+   is expanded to
+
+   ```echo "Hello Moe"```
 
    The meaning of the above is that `$name` is literally replaced with
    `Moe` before the `echo` command is run.
 
-2. Command alias substitution.  Aliases are handy abbreviations.
+2. Command alias substitution.  Aliases are handy abbreviations
+   usually defined in the `~/.bashrc` Bash configuration file.
 
    ```alias ll="ls -l"```\
-   ```ll foo  ==>  ls -l foo```
+   ```ll foo```
+
+   is expanded to
+
+   ```ls -l foo```
 
 3. Wildcard expansion ("globbing").
 
-   ```wc -l *.csv  ==>  wc -l ASDN_Bird_eggs.csv species.csv ...```
+   ```wc -l *.csv```
+
+   is expanded to
+
+   ```wc -l ASDN_Bird_eggs.csv species.csv ...```
 
    As with variable substitutions, the globbing expansion literally
    replaces the wildcard expression with a list of filenames before
@@ -121,7 +137,11 @@ are confusing.  If you feel lost, join the club.
 
 4. Running subcommands.
 
-   ```now="$(date)"  ==>  now="Sat May  6 19:02:07 PDT 2023"```
+   ```now="$(date)"```
+
+   is expanded to
+
+   ```now="Sat May  6 19:02:07 PDT 2023"```
 
    The expression placed in the `$(...)` can be an entire command
    pipeline.  When done, the subcommand is replaced with any output
@@ -129,7 +149,11 @@ are confusing.  If you feel lost, join the club.
 
 5. Arithmetic.
 
-   ```answer=$(( 21 * 2 ))  ==>  answer=42```
+   ```answer=$(( 21 * 2 ))```
+
+   is expanded to
+
+   ```answer=42```
 
    Bash can do integer arithmetic only.
 
@@ -141,14 +165,23 @@ command line.
 Quoting is another difficult area of Bash.  It's hard to get right.
 
 - Double quotes support variable, subcommand, and arithmetic
-  expansions.  We've already seen:
+  expansions.  We've already seen these examples:
 
-  ```echo "Hello $name"  ==>  echo "Hello Moe"```\
-  ```echo "Today is $(date)"  ==>  echo "Today is Sat May  6 19:02:07 PDT 2023"```
+  ```echo "Hello $name"```\
+  ```echo "Today is $(date)"```
+
+  get expanded to
+
+  ```echo "Hello Moe"```\
+  ```echo "Today is Sat May  6 19:02:07 PDT 2023"```
 
 - Single quotes don't.
 
-   ```echo 'Hello $name'  ==>  echo 'Hello $name'```
+   ```echo 'Hello $name'```
+
+   just remains
+
+   ```echo 'Hello $name'```
 
 Generally, arguments to programs must be quoted to pass them as
 singleton arguments and to avoid expanding them into multiple
@@ -160,14 +193,26 @@ into multiple arguments, and quotes should be left off:
 
 ```
 my_fave_ls_options="-l -F"
-ls $my_fave_ls_options foo  ==>  ls -l -F foo
+ls $my_fave_ls_options foo
+```
+
+gets expanded to
+
+```
+ls -l -F foo
 ```
 
 Other times you don't:
 
 ```
 query="SELECT * FROM table"
-sqlite3 db "$query"  ==>  sqlite3 db "SELECT * FROM table"
+sqlite3 db "$query"
+```
+
+gets expanded to
+
+```
+sqlite3 db "SELECT * FROM table"
 ```
 
 ## 6. PATH determines what programs are run
@@ -198,7 +243,8 @@ To see all places where you have Python installed
 which -a python
 ```
 
-You can modify `PATH`, for example, to add a directory to it:
+You can modify `PATH` to, for example, add a directory to it (recall
+`export` is used for environment variables):
 
 ```
 export PATH=$PATH:/another/directory/I/want/Bash/to/look/in
@@ -271,7 +317,8 @@ fi
 ```
 
 What can go in inside `[ ... ]`?  A lot of things.  Believe it or not,
-`[` is a program!  Do a `man [` to read about it.
+`[` is a program!  Do a `man [` to read about it (see section 10 for
+other ways to get help).
 
 A `for` loop iterates over a list of items:
 
@@ -306,15 +353,18 @@ There are other control statements.
 ## 9. Scripts
 
 A Bash script is a text file containing the same Bash commands you
-might type interactively.  Bash knows it is reading from a file
-instead of the terminal window, and it operates slightly differently:
+might type interactively.  It's analogous to an R or Python script but
+written in Bash instead of one of those other languages.
+
+Bash knows it is reading from a file instead of the terminal window,
+and it operates slightly differently:
 
 - It doesn't print a prompt.
 - It doesn't read Bash configuration files (`~/.bashrc`,
   `~/.bash_profile`, `~/.profile`, etc.).  As a consequence, aliases
-  and variables defined in those files are not available to scripts.
-  (Any environment variables set in configuration files *are*
-  available, but that's because environment variables are inherited.)
+  and variables defined in those files are not visible to scripts.
+  (Any environment variables set in configuration files *are* visible,
+  but that's because environment variables are inherited.)
 
 Bash makes arguments passed to your script available as variables
 `$1`, `$2`, etc.  Variable `$#` is the number of arguments.  Ex:
@@ -345,7 +395,9 @@ done:
 
    ```#!/bin/bash```
 
-   There can't be any spaces before the `#!`.
+   There can't be any spaces before the `#!`.  (You can similarly make
+   a Python or R script directly runnable by including such a first
+   line, but with the pathname of the R or Python interpreter to run.)
 
 2. Set the "execute" flag on the script file:
 
@@ -365,7 +417,7 @@ myscript.sh
 
 This is likely due to the current directory not being included in
 `PATH`.  (`echo $PATH` to see.)  You can either qualify the script
-with a directory name:
+name with a directory name:
 
 ```
 ./myscript.sh
@@ -373,9 +425,23 @@ with a directory name:
 
 or you can modify `PATH` per section 6.
 
+A complete example of a script:
+
+```
+#!/bin/bash
+# Add two numbers.
+if [ $# -ne 2 ]; then
+    echo "Supply two numbers, no more, no less"
+    exit 1
+fi
+first=$1
+second=$2
+echo "The sum of $first and $second is $(( $first + $second ))"
+```
+
 ## 10. Getting help and a couple tips
 
-To get help on a command, say `ls`, try one of the following:
+To get help on a command, for example `ls`, try one of the following:
 
 ```
 man ls
@@ -457,14 +523,14 @@ subdirectory, before answering these.
    but that doesn't quite work.  What fix can you apply to make this
    command give the desired effect?
 
-5. You create a script and invoke it like so:
+5. You create a script and run it like so:
 
    ```bash myscript.sh *.csv```
 
    What are the values of variables `$1` and `$#`?  Explain why the
    script does not see just one argument passed to it.
 
-6. You create a script and invoke it like so:
+6. You create a script and run it like so:
 
    ```bash myscript.sh "$(date)" $(date)```
 
@@ -473,7 +539,7 @@ subdirectory, before answering these.
 7. Create a file you don't care about (because you're about to destroy
    it):
 
-   ```echo "a line of text" > junk_file.txt```\
+   ```echo "yo ho a line of text" > junk_file.txt```\
    ```echo "another line" >> junk_file.txt```
 
    You want to sort the lines in this file, so you try:
