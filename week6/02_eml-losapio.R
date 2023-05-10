@@ -8,15 +8,17 @@
 install.packages("EML")
 install.packages("emld") #an effective back-end for other 'R'-based tools working with 'EML
 
+setwd("/Users/wsedgwick/Desktop/bren_meds/courses/spring/eds213/bren-meds213-class-data/week6")
+
 # Load Packages
 
 # Starting our EML Record
 # Describing the Coverage (Temporal and Geographic)
 
-geographicDescription <- 
+geographicDescription <- "Loma del Mulhacen, Sierra Nevada, Andalucia, Spain"
 
 coverage <- 
-  set_coverage(begin = , end = ,
+  set_coverage(begin = "2015-07-01", end = "2015-07-31",
                geographicDescription = geographicDescription,
                west = -3.30, east = 3.30, 
                north = 37.05, south = 37.05,
@@ -24,15 +26,35 @@ coverage <-
                altitudeUnits = "meter")
 
 # Methods
+methods_file <- "./methods.md"
+methods <- set_methods(methods_file)
+
+losapia <- eml$creator(
+  individualName = eml$individualName(
+    givenName = "Gianalberto",
+    surName = "Losapio"),
+  electronicMailAddress = "losapiog@stanford.edu"
+)
+
+gianalberto <- eml$creator(
+  individualName = eml$individualName(
+    givenName = "Gianalberto",
+    surName = "Losapio"),
+  electronicMailAddress = "losapiog@stanford.edu"
+)
+
+
+R_person <- person("Gianalbeto", "Losapio", "losapiog@stanford.edu")
+
 # You may copy it or call the .md file
 
 # Creating parties
 
 # Persons and Organizations appear in multiple places in and EML document. R has a native object class R_person
 
-
 # Publisher
-  
+
+publisher <- "Standford University"
   
 # Contact Info  
  
@@ -44,23 +66,34 @@ coverage <-
 
 # Publication Date
     
+pubDate <- "2021"
 
 # Title
 
+title <- "Plant-pollinator observations for: An experimental approach to assessing the 
+  impact of ecosystem engineers on biodiversity and ecosystem functions"
 
 # Abstract
-# You may copy it or call the .md file
 
+abstract_file <- "./abstract.md"
+abstract_set <- set_TextType(abstract_file)
+
+intellectualRights <- "Creative Commons CC0 License"
+
+# You may copy it or call the .md file
+contact <- list(
+  individualName = gianalberto$individualName,
+  electronicMailAddress = gianalberto$electronicMailAddress,
+  organization = "Stanford University")
 
 
 # Licensing and Rights
-
 
 # Time to create our dataset element!
 
 dataset <- list(
   title = title,
-  creator = giadalberto,
+  creator = gianalberto,
   pubDate = pubDate,
   ...)
 
