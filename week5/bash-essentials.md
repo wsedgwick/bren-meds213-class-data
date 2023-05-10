@@ -183,13 +183,13 @@ Quoting is another difficult area of Bash.  It's hard to get right.
 
    ```echo 'Hello $name'```
 
-Generally, arguments to programs must be quoted to pass them as
-singleton arguments and to avoid expanding them into multiple
-arguments.  This is easier to appreciate when you're passing in an
-explicitly quoted string as in the examples above.  But it's less
-obvious that quoting is required even if you're referencing a
-variable.  Sometimes you want to allow a referenced variable to expand
-into multiple arguments, and quotes should be left off:
+Generally, arguments to programs must be quoted to prevent Bash from
+expanding them into multiple arguments.  This is easier to appreciate
+when you're passing in an explicitly quoted string as in the examples
+above.  But it's less obvious that quoting is required even if you're
+referencing a variable.  Sometimes you want to allow a referenced
+variable to be expanded into multiple arguments, and quotes should be
+left off:
 
 ```
 my_fave_ls_options="-l -F"
@@ -214,6 +214,12 @@ gets expanded to
 ```
 sqlite3 db "SELECT * FROM table"
 ```
+
+If `$query` is not quoted in the previous example, `SELECT`, `*`,
+etc., will be passed as separate arguments, which is not what
+`sqlite3` expects.  Making matters worse, `*` will then be interpreted
+as a wildcard and expanded into a list of all files in the current
+directory!
 
 ## 6. PATH determines what programs are run
 
@@ -271,11 +277,11 @@ wc -l *.csv | sort -n
 
 Here the `wc -l` command, which counts the number of lines in files,
 is given filenames on the command line, so it counts the lines in
-those files.  It writes its output to stdout.  `sort -n` sorts lines.
-It was given no files to sort, so it sorts whatever lines come in via
-stdin.  By piping these together (i.e., by hooking `wc`'s stdout to
-`sort`'s stdin using the pipe operator), the output from `wc -l` is
-thereby sorted.
+those files.  It writes its output to stdout.  `sort -n` sorts lines
+in files.  It was given no files to sort, so it sorts whatever lines
+come in via stdin.  By piping these together (i.e., by hooking `wc`'s
+stdout to `sort`'s stdin using the pipe operator), the output from `wc
+-l` is thereby sorted.
 
 There are various operators for redirecting where stdin comes from and
 where stdout and stderr go:
