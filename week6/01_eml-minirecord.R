@@ -4,7 +4,7 @@ library(emld)
 
 # Below is a minimal valid EML record with a tile, creator and contact info.
 
-me <- list(individualName = list(givenName = "Renata", surName = "Curty"))
+me <- list(individualName = list(givenName = "Wade", surName = "Sedgwick"))
 eml_mini <- list(dataset = list(
   title = "This is a minimal valid EML dataset record",
   creator = me,
