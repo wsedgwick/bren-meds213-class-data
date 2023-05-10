@@ -18,7 +18,7 @@ geographicDescription <-
 coverage <- 
   set_coverage(begin = , end = ,
                geographicDescription = geographicDescription,
-               west = -3.30, east = -3.30, # bounding coordinates calculated bassed on lat. and long.
+               west = -3.30, east = 3.30, 
                north = 37.05, south = 37.05,
                altitudeMin = 600, altitudeMaximum = 3396,
                altitudeUnits = "meter")
