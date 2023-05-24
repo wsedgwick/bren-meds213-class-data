@@ -1,7 +1,7 @@
 ---
 title: "southpark-sdc"
 author: "EDS213"
-date: "2023-05-10"
+date: "2023-05-24"
 output: html_document
 ---
 
@@ -27,7 +27,7 @@ In summary, our client has three main questions to for us (and none of them invo
 
 \*Caveat: We have a relative small dataset for this exercise (rows and columns, so we can't strive for some of the tresholds recommended in the literature.
 
-#### Packages & Data
+#### Package & Data
 
 ```{r}
 library(sdcMicro)
@@ -80,8 +80,10 @@ sdcInitial <- createSdcObj(dat=file,
                        randomizeRecords=FALSE,
                        alpha=c(1))
 # Summary of object
-
+?
 ```
+
+What about the stu_id? Why we are keeping it?
 
 Check the results below, and the number of observations that violate 2-5 anonymity. What does that mean?
 
@@ -92,7 +94,9 @@ Check the results below, and the number of observations that violate 2-5 anonymi
 ?
 ```
 
-Over 81%? That is terrible! Let's see if we can get that lowered to less than 15% and a k=5.
+Was it good?
+
+Let's see if we can get that lowered to less than 15% and a k=5.
 
 We have to get some work done to reduce that. But that would be the first answer to our clients.
 
@@ -101,7 +105,7 @@ We can inspect this issue a little further before moving to the second question.
 ##### Which observations/subjects have a higher risk to be re-identified?
 
 ```{r}
-?
+
 ```
 
 ##### How many combinations of key variables each record have?
@@ -124,7 +128,7 @@ As mentioned before, the household income of some students may pose a risk to th
 
 ```{r}
 # Frequencies of income before recoding
-?
+table(sdcInitial@manipKeyVars$income)
 ```
 
 ```{r}
@@ -132,7 +136,7 @@ As mentioned before, the household income of some students may pose a risk to th
 sdcInitial <- groupAndRename(obj= sdcInitial, var= c("income"), before=c("200,000-249,999","500,000+"), after=c("200,000+"))
 
 ## Recode variable income (bottom coding)
-?
+sdcInitial <- groupAndRename(obj= sdcInitial, var= c("income"), before=c("10,000-24,999","75,000-99,999"), after=c("10,000-99,999"))
 ```
 
 *Age*
@@ -191,7 +195,7 @@ Alright! We managed lower the risk of identification from 81% to about 10% and n
 ##### Time to measure the utility and information loss for the anonymized dataset.
 
 ```{r}
-#First we retrieve the total number of supressions for each categorical key variable
+#First we retrieve the total number of suppressions for each categorical key variable
 ?
 ```
 
