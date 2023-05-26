@@ -1,0 +1,12 @@
+import csv
+import sys
+num_reps = int(sys.argv[1])
+rows =  list(csv.reader(open("ASDN_Bird_nests.csv")))
+w = csv.writer(open("ASDN_Bird_nests_mongo.csv", "w"))
+w.writerow(rows[0])
+for n in range(num_reps):
+    for row in rows[1:]:
+        original = row[3]
+        row[3] = f"{row[3]}.meds{n}"
+        w.writerow(row)
+        row[3] = original
