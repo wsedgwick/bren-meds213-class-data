@@ -1,0 +1,1 @@
+select nest_id from Bird_nests where site='nome' and species = 'ruff' and year = 1983 and observer = 'mgibson'

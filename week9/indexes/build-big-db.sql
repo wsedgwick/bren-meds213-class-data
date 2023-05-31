@@ -16,12 +16,13 @@ CREATE TABLE Bird_nests (
     Clutch_max_temp TEXT,
     floatAge_temp TEXT,
     ageMethod_temp TEXT,
+    padding TEXT,
     FOREIGN KEY (Site) REFERENCES Site (Code),
     FOREIGN KEY (Species) REFERENCES Species (Code),
     FOREIGN KEY (Observer) REFERENCES Personnel (Abbreviation)
 );
 
-.import --csv --skip 1 ASDN_Bird_nests_mongo.csv Bird_nests
+.import --csv db/ASDN_Bird_nests_mongo.csv Bird_nests
 
 UPDATE Bird_nests SET Observer = NULL WHERE Observer = '';
 
