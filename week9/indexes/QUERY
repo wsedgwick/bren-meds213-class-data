@@ -1,1 +1,6 @@
-select nest_id from Bird_nests where site='nome' and species = 'ruff' and year = 1983 and observer = 'mgibson'
+SELECT Nest_ID
+    FROM Bird_nests
+    WHERE Site = 'nome' AND
+          Species = 'ruff' AND
+          Year = 1983 AND
+          Observer = 'mgibson';
