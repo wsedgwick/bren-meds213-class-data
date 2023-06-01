@@ -27,7 +27,7 @@ num_reps=1
 while true; do
     echo -n "$num_reps repetitions"
     start=$SECONDS
-    for i in $(seq $num_reps); do
+    for _ in $(seq $num_reps); do
         echo -n .
         sqlite3 $db_file "$query" >& /dev/null
     done
