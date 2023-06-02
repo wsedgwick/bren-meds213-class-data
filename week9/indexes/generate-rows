@@ -4,7 +4,7 @@
 # Write a CSV file to stdout.  Existing database is needed to pick up
 # foreign key values.
 #
-# Usage: generate-rows database N
+# Usage: generate-rows db_file N
 
 import csv
 from random import randrange, choice
@@ -32,12 +32,12 @@ for n in range(num_rows):
     observer = choice(observers)
     date_found = f"{year}-{randrange(1, 13):02}-{randrange(1, 29):02}"
     how_found = choice(["searcher", "rope", "bander"])
+    padding = "".join(choice(ascii_letters) for _ in range(3000))
     clutch_max = str(randrange(21))
     float_age = ""
-    age_method = choice(["", "float", "lay", "hatch"])
-    if age_method != "":
+    age_method = choice(["float", "lay", "hatch"])
+    if age_method == "float":
         float_age = str(randrange(31))
-    padding = "".join(choice(ascii_letters) for _ in range(3000))
     w.writerow(
         [
             book_page,
@@ -48,9 +48,9 @@ for n in range(num_rows):
             observer,
             date_found,
             how_found,
+            padding,
             clutch_max,
             float_age,
-            age_method,
-            padding
+            age_method
         ]
     )
