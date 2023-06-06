@@ -3,5 +3,5 @@ SELECT Nest_ID
     WHERE Site = 'nome' AND
           Species = 'ruff' AND
           Year = 1983 AND
-          Observer = 'bharrington' AND
+          Observer = 'cbishop' AND
           ageMethod = 'float';
