@@ -44,7 +44,7 @@ if [ $index != none ]; then
     nd_query="SELECT COUNT(*) FROM (SELECT DISTINCT $index FROM Bird_nests)"
     num_distinct=$(sqlite3 -csv $db_file "$nd_query" 2> /dev/null)
 else
-    num_distinct=
+    num_distinct=1
 fi
 
 if [ $index != none ]; then
