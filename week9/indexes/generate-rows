@@ -7,10 +7,12 @@
 # Usage: generate-rows db_file N
 
 import csv
-from random import randrange, choice
+from random import seed, randrange, choice
 import sqlite3
 from string import ascii_letters
 import sys
+
+seed("meds213")  # for consistency across platforms
 
 db_file = sys.argv[1]
 num_rows = int(sys.argv[2])
